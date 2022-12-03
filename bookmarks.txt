@@ -33,6 +33,9 @@ sql: https://analyticshut.com/reading-data-from-sql-tables-in-spark/
 sql, docs: https://spark.apache.org/docs/latest/sql-data-sources-jdbc.html
 Snowflake: https://www.phdata.io/blog/how-to-connect-snowflake-using-spark/
 
+# Python development workflow: git to pypi
+https://calmcode.io/setup/introduction.html
+
 # How to find location of Java
 https://askubuntu.com/questions/772235/how-to-find-path-to-java
 
