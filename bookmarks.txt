@@ -9,6 +9,9 @@ https://medium.com/talpor/windows-terminal-cmder-%EF%B8%8F-573e6890d143
 design patterns: https://www.startdataengineering.com/post/design-patterns/
 blogs: https://tech.marksblogg.com/
 
+#dbt
+https://www.datafold.com/blog/dbt-python
+
 # duckdb
 json: https://duckdb.org/2023/03/03/json.html
 
@@ -52,7 +55,7 @@ sql, docs: https://spark.apache.org/docs/latest/sql-data-sources-jdbc.html
 Snowflake: https://www.phdata.io/blog/how-to-connect-snowflake-using-spark/
 
 # Python development workflow: git to pypi
-https://calmcode.io/setup/introduction.html
+Pay special attention to the 3rd video on "Setup": https://calmcode.io/setup/introduction.html
 
 # Understanding Imports/Packaging
 https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/
