@@ -39,6 +39,7 @@ https://hakibenita.com/postgresql-unknown-features
 # PySpark
 https://jacobcelestine.com/knowledge_repo/colab_and_pyspark/
 https://sparkbyexamples.com/
+sql: https://pl.seequality.net/pyspark-cheatsheet-with-comparison-to-sql/
 https://github.com/cartershanklin/pyspark-cheatsheet
 chaining: https://mungingdata.com/pyspark/chaining-dataframe-transformations/
 installing: https://phoenixnap.com/kb/install-spark-on-ubuntu
