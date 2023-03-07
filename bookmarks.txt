@@ -1,7 +1,19 @@
-<<<<<<< HEAD
+# Cheat Sheets
+Python: https://github.com/gto76/python-cheatsheet
+
 # cmder
 # NOTE: cmder mini requires 7-zip
 https://medium.com/talpor/windows-terminal-cmder-%EF%B8%8F-573e6890d143
+
+# data engineering
+design patterns: https://www.startdataengineering.com/post/design-patterns/
+blogs: https://tech.marksblogg.com/
+
+#dbt
+https://www.datafold.com/blog/dbt-python
+
+# duckdb
+json: https://duckdb.org/2023/03/03/json.html
 
 # git
 # 15-minute Git Introduction
@@ -15,6 +27,12 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a
 # For creating new Github repo from local folder
 https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github
 
+# Java How to find location of Java
+https://askubuntu.com/questions/772235/how-to-find-path-to-java
+
+# Linux
+https://tutonics.com/2012/12/linux-file-permissions-chmod-umask.html
+
 # pandas
 https://drawingfromdata.com/pandas/grouping/pandas-groupby-transform-aggregate-filter.html
 
@@ -24,6 +42,7 @@ https://hakibenita.com/postgresql-unknown-features
 # PySpark
 https://jacobcelestine.com/knowledge_repo/colab_and_pyspark/
 https://sparkbyexamples.com/
+sql: https://pl.seequality.net/pyspark-cheatsheet-with-comparison-to-sql/
 https://github.com/cartershanklin/pyspark-cheatsheet
 chaining: https://mungingdata.com/pyspark/chaining-dataframe-transformations/
 installing: https://phoenixnap.com/kb/install-spark-on-ubuntu
@@ -36,13 +55,7 @@ sql, docs: https://spark.apache.org/docs/latest/sql-data-sources-jdbc.html
 Snowflake: https://www.phdata.io/blog/how-to-connect-snowflake-using-spark/
 
 # Python development workflow: git to pypi
-https://calmcode.io/setup/introduction.html
-
-# How to find location of Java
-https://askubuntu.com/questions/772235/how-to-find-path-to-java
-
-# Linux
-https://tutonics.com/2012/12/linux-file-permissions-chmod-umask.html
+Pay special attention to the 3rd video on "Setup": https://calmcode.io/setup/introduction.html
 
 # Understanding Imports/Packaging
 https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/
@@ -51,61 +64,3 @@ https://towardsdatascience.com/on-writing-clean-jupyter-notebooks-abdf6c708c75
 # Visualization Related
 https://aeturrell.github.io/coding-for-economists/vis-common-plots.html
 
-# Cheat Sheets
-Python: https://github.com/gto76/python-cheatsheet
-=======
-# cmder
-# NOTE: cmder mini requires 7-zip
-https://medium.com/talpor/windows-terminal-cmder-%EF%B8%8F-573e6890d143
-
-# git
-# 15-minute Git Introduction
-https://www.youtube.com/watch?v=USjZcfj8yxE
-# Getting started with local repo
-notes: https://www.notion.so/zarkom/Introduction-to-Git-ac396a0697704709a12b6a0e545db049
-# Creating SSH keys for Github access
-https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
-# Add SSH key to Github
-https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
-# For creating new Github repo from local folder
-https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github
-
-# pandas
-https://drawingfromdata.com/pandas/grouping/pandas-groupby-transform-aggregate-filter.html
-
-# PostgreSQL
-https://hakibenita.com/postgresql-unknown-features
-
-# PySpark
-https://jacobcelestine.com/knowledge_repo/colab_and_pyspark/
-https://sparkbyexamples.com/
-chaining: https://mungingdata.com/pyspark/chaining-dataframe-transformations/
-installing: https://phoenixnap.com/kb/install-spark-on-ubuntu
-installing: https://www.how2shout.com/linux/installing-apache-spark-on-ubuntu-20-04-or-18-04/
-installing: https://computingforgeeks.com/how-to-install-apache-spark-on-ubuntu-debian/
-installing, win10: https://phoenixnap.com/kb/install-spark-on-windows-10
-installing, win10: https://kontext.tech/column/spark/450/install-spark-300-on-windows-10
-sql: https://analyticshut.com/reading-data-from-sql-tables-in-spark/
-sql, docs: https://spark.apache.org/docs/latest/sql-data-sources-jdbc.html
-Snowflake: https://www.phdata.io/blog/how-to-connect-snowflake-using-spark/
-YT videos: https://www.youtube.com/playlist?app=desktop&list=PLxy0DxWEupiNjGSv1hzRFBXgSzV-bZu94
-
-# Python development workflow: git to pypi
-https://calmcode.io/setup/introduction.html
-
-# How to find location of Java
-https://askubuntu.com/questions/772235/how-to-find-path-to-java
-
-# Linux
-https://tutonics.com/2012/12/linux-file-permissions-chmod-umask.html
-
-# Understanding Imports/Packaging
-https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/
-https://towardsdatascience.com/on-writing-clean-jupyter-notebooks-abdf6c708c75
-
-# Visualization Related
-https://aeturrell.github.io/coding-for-economists/vis-common-plots.html
-
-# Cheat Sheets
-Python: https://github.com/gto76/python-cheatsheet
->>>>>>> e8e65305e6927ae21188ba99f4340b5fcea483fe
