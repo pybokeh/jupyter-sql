@@ -61,8 +61,12 @@ Snowflake: https://www.phdata.io/blog/how-to-connect-snowflake-using-spark/
 
 # Python development workflow: git to pypi
 Pay special attention to the 3rd video on "Setup": https://calmcode.io/setup/introduction.html
+https://dagster.io/blog/python-packages-primer-1
+https://dagster.io/blog/python-packages-primer-2
 
 # Understanding Imports/Packaging
+https://dagster.io/blog/python-packages-primer-1
+https://dagster.io/blog/python-packages-primer-2
 https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/
 https://towardsdatascience.com/on-writing-clean-jupyter-notebooks-abdf6c708c75
 
