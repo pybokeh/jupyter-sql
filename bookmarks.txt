@@ -64,6 +64,9 @@ Pay special attention to the 3rd video on "Setup": https://calmcode.io/setup/int
 https://dagster.io/blog/python-packages-primer-1
 https://dagster.io/blog/python-packages-primer-2
 
+# Snowflake tutorials
+https://share-docs.clickup.com/37466271/d/h/13qc4z-104/d4346819bd8d510
+
 # Understanding Imports/Packaging
 https://dagster.io/blog/python-packages-primer-1
 https://dagster.io/blog/python-packages-primer-2
