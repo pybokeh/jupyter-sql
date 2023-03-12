@@ -14,8 +14,11 @@ YT video: https://youtu.be/sCUYBa-glh0
 design patterns: https://www.startdataengineering.com/post/design-patterns/
 blogs: https://tech.marksblogg.com/
 
-#dbt
-https://www.datafold.com/blog/dbt-python
+# dbt
+# In setting up dbt, tedious or important part is making sure info in profiles.yml matches your dbt_project.yml
+Quick start guide: https://docs.getdbt.com/docs/quickstarts/dbt-core/quickstart
+Setting up dbt with Snowflake profile with SSO externalbrowser authentication: https://docs.getdbt.com/reference/warehouse-setups/snowflake-setup#sso-authentication
+Using python with dbt: https://www.datafold.com/blog/dbt-python
 
 # duckdb
 json: https://duckdb.org/2023/03/03/json.html
