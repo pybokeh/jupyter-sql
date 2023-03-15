@@ -133,6 +133,7 @@ streamlit: https://github.com/streamlit/streamlit
 idom: https://github.com/idom-team/idom
 pywebio: https://github.com/wang0618/PyWebIO
 gradio: https://github.com/gradio-app/gradio
+pinecone: https://github.com/pynecone-io/pynecone
 
 # Jupyter Notebook Related
 jupysql: https://github.com/ploomber/jupysql
