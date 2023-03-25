@@ -36,6 +36,9 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a
 # For creating new Github repo from local folder
 https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github
 
+# ibis
+Short practical example: https://ibis-project.org/blog/rendered/campaign-finance/
+
 # Java How to find location of Java
 https://askubuntu.com/questions/772235/how-to-find-path-to-java
 
