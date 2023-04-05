@@ -159,6 +159,7 @@ From .py to html: https://github.com/danijar/handout
 Jupyter "books": https://github.com/jupyter/jupyter-book
 hover tool tips: https://github.com/krassowski/jupyterlab-lsp
 real-time plots in jupyter: https://lvwerra.github.io/jupyterplot/
+Notebook publishing with quarto: https://github.com/quarto-dev/quarto-cli
 
 # database related
 pyodbc
