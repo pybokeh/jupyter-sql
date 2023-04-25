@@ -44,6 +44,9 @@ Short practical example: https://ibis-project.org/blog/rendered/campaign-finance
 # Java How to find location of Java
 https://askubuntu.com/questions/772235/how-to-find-path-to-java
 
+# JSON related
+flatten JSON using pandas: https://github.com/BindiChen/machine-learning/blob/main/data-analysis/028-pandas-json_normalize/pandas-json_normalize.ipynb
+
 # Linux
 https://tutonics.com/2012/12/linux-file-permissions-chmod-umask.html
 
