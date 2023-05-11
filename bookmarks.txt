@@ -9,7 +9,7 @@ https://medium.com/talpor/windows-terminal-cmder-%EF%B8%8F-573e6890d143
 blog post: https://dagster.io/blog/dagster-script-to-assets
 code example: https://github.com/petehunt/dagster-script-to-assets
 YT video: https://youtu.be/sCUYBa-glh0
-Another good tutorial: https://dagster.io/blog/dagster-google-sheets-tutorial
+Another good tutorial: https://www.youtube.com/live/kpco5u1zG9Y
 partitioning: https://dagster.io/blog/partitioned-data-pipelines
 YT video example partitioning: https://www.youtube.com/watch?v=LFOikWqCOAM
 
