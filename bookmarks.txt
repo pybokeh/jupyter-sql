@@ -83,6 +83,9 @@ https://dagster.io/blog/python-project-best-practices
 Tutorials: https://share-docs.clickup.com/37466271/d/h/13qc4z-104/d4346819bd8d510
 Working with JSON: https://medium.com/snowflake/working-with-semi-structured-data-in-snowflake-e74525c5514
 
+# Time Series Forecasting
+https://github.com/zgana/fpp3-python-readalong
+
 # Understanding Imports/Packaging
 https://dagster.io/blog/python-packages-primer-1
 https://dagster.io/blog/python-packages-primer-2
