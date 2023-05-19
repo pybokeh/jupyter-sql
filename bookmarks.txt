@@ -40,6 +40,10 @@ https://docs.github.com/en/get-started/importing-your-projects-to-github/importi
 
 # ibis
 Short practical example: https://ibis-project.org/blog/rendered/campaign-finance/
+map() with lambda for applying scalar function to an array: https://www.youtube.com/watch?v=6TgpRMmvNQs
+pivot_longer: https://www.youtube.com/watch?v=-0pjPE6VgDs
+pivot_longer with selector: https://www.youtube.com/watch?v=2Ff031w9ULs
+Snowflake udf scalar function: https://www.youtube.com/watch?v=VyGuIuaufCk
 
 # Java How to find location of Java
 https://askubuntu.com/questions/772235/how-to-find-path-to-java
