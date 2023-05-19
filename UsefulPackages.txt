@@ -217,6 +217,7 @@ https://pyjanitor.readthedocs.io/
 https://github.com/keleshev/schema
 https://github.com/TMiguelT/PandasSchema
 https://github.com/TomAugspurger/engarde
+https://github.com/jcrist/msgspec
 
 # R related
 rpy2
