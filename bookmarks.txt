@@ -99,3 +99,5 @@ https://towardsdatascience.com/on-writing-clean-jupyter-notebooks-abdf6c708c75
 # Visualization Related
 https://aeturrell.github.io/coding-for-economists/vis-common-plots.html
 
+# Unofficial Python Wheels for Geospatial
+https://github.com/cgohlke/geospatial-wheels/
