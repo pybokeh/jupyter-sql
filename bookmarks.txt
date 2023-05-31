@@ -51,6 +51,9 @@ https://askubuntu.com/questions/772235/how-to-find-path-to-java
 # JSON related
 flatten JSON using pandas: https://github.com/BindiChen/machine-learning/blob/main/data-analysis/028-pandas-json_normalize/pandas-json_normalize.ipynb
 
+# Jupyter related
+Creating a public gist from a notebook: https://stackoverflow.com/questions/42678737/creating-gist-directly-from-jupyper-notebook
+
 # Linux
 https://tutonics.com/2012/12/linux-file-permissions-chmod-umask.html
 
