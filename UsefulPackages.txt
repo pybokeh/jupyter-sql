@@ -208,6 +208,7 @@ ploomber: https://github.com/ploomber/ploomber (Windows supported)
 databay: https://github.com/Voyz/databay
 pydags: https://github.com/DavidTorpey/pydags
 fluke: https://github.com/manoss96/fluke
+sqlmesh: https://github.com/TobikoData/sqlmesh
 
 # Data validation and cleaning frameworks
 https://github.com/great-expectations/great_expectations
