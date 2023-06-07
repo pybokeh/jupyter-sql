@@ -31,8 +31,11 @@ sidetable: https://github.com/chris1610/sidetable
 dataprofiler: https://github.com/capitalone/DataProfiler
 skimpy: https://github.com/aeturrell/skimpy
 
-# Database profiling
+# Data profiling
+pandas-profiling: https://github.com/pandas-profiling/pandas-profiling
 https://github.com/darenasc/auto-eda
+https://github.com/awslabs/python-deequ
+https://github.com/capitalone/DataProfiler
 
 # Data Metadata / Discovery Frameworks
 amundsen: https://github.com/amundsen-io/amundsen
