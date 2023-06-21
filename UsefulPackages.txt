@@ -73,6 +73,7 @@ pyarrow
 fastparquet
 dampr: https://github.com/Refefer/Dampr
 datatable: https://github.com/h2oai/datatable (Windows not supported yet)
+polars: https://github.com/pola-rs/polars
 ibis: http://ibis-project.org/
 
 # visualization libraries
@@ -218,6 +219,8 @@ https://github.com/keleshev/schema
 https://github.com/TMiguelT/PandasSchema
 https://github.com/TomAugspurger/engarde
 https://github.com/jcrist/msgspec
+https://github.com/awslabs/python-deequ
+https://github.com/capitalone/DataProfiler
 
 # R related
 rpy2
