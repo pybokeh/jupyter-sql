@@ -3,8 +3,11 @@ Python: https://github.com/gto76/python-cheatsheet
 PySpark: https://github.com/cartershanklin/pyspark-cheatsheet/tree/master
 
 # cmder
-# NOTE: cmder mini requires 7-zip
 https://medium.com/talpor/windows-terminal-cmder-%EF%B8%8F-573e6890d143
+This article is outdate, just need to add the following to the windows terminal JSON settings file:
+"commandline": "cmd.exe /k %CMDER_ROOT%\\vendor\\init.bat"
+"icon": "%CMDER_ROOT%\\icons\\cmder.ico"
+Where %CMDR_ROOT% is the root installation folder for your cmder
 
 # dagster
 blog post: https://dagster.io/blog/dagster-script-to-assets
