@@ -32,7 +32,7 @@ dataprofiler: https://github.com/capitalone/DataProfiler
 skimpy: https://github.com/aeturrell/skimpy
 
 # Data profiling
-pandas-profiling: https://github.com/pandas-profiling/pandas-profiling
+ydata (formerly pandas-profiling): https://github.com/ydataai/ydata-profiling
 https://github.com/darenasc/auto-eda
 https://github.com/awslabs/python-deequ
 https://github.com/capitalone/DataProfiler
@@ -282,6 +282,9 @@ bullet: https://github.com/bchao1/bullet
 # Desktop GUI Frameworks
 DearPyGui: https://github.com/hoffstadt/DearPyGui
 PySimpleGUI: https://github.com/PySimpleGUI/PySimpleGUI
+
+# PDF extraction
+https://github.com/jsvine/pdfplumber#extracting-tables
 
 # Progress Bars
 tqdm: https://github.com/tqdm/tqdm
