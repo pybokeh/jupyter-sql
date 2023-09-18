@@ -1,0 +1,2 @@
+# Installing quarto onto WSL Ubuntu
+https://quarto.org/docs/download/tarball.html
