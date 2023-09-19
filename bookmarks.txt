@@ -107,6 +107,7 @@ https://github.com/zgana/fpp3-python-readalong
 https://www.youtube.com/watch?v=Vycv3Y-B0V8&list=PL4GjoPPG4VqPMTIaR0LlU9xMw97Q9FwT6
 https://www.youtube.com/watch?v=O5pataOw33Y
 https://www.youtube.com/watch?v=2XGSIlgUBDI
+https://www.youtube.com/watch?v=_qv_7lEuiZg
 
 # Understanding Imports/Packaging
 https://dagster.io/blog/python-packages-primer-1
