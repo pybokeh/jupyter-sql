@@ -104,6 +104,7 @@ https://www.youtube.com/watch?v=jEgVto5QME8
 
 # Time Series Forecasting
 https://github.com/zgana/fpp3-python-readalong
+https://www.youtube.com/watch?v=2XGSIlgUBDI
 
 # Understanding Imports/Packaging
 https://dagster.io/blog/python-packages-primer-1
