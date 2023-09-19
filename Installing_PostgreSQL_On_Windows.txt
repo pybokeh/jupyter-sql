@@ -1,0 +1,59 @@
+Installing Postgres on Windows with Zip Archive (when you don't have admin rights to your machine)
+
+Download zip archive: https://www.enterprisedb.com/download-postgresql-binaries
+
+1) Extract zip
+
+2) Create "data" folder in your root PostgreSQL installation folder
+
+3) Create "initialize_postgres.bat" file with the following contents:
+@ECHO ON
+@SET PATH="%~dp0\bin";%PATH%
+@SET PGDATA=%~dp0\data
+@SET PGDATABASE=postgres
+@SET PGUSER=postgres
+@SET PGPORT=5432
+@SET PGLOCALEDIR=%~dp0\share\locale
+"%~dp0\bin\initdb" -U postgres -W -E UTF8 --auth=trust
+REM "%~dp0\bin\pg_ctl" -D "%~dp0/data" -l logfile start
+pause
+
+Save this file in the root installation folder.  Then run this once and ONLY once.
+
+You will be prompted to enter your password twice.
+
+4) Create "start_postgres.bat" file with the following contents:
+@ECHO ON
+@SET PATH="%~dp0\bin";%PATH%
+@SET PGDATA=%~dp0\data
+@SET PGDATABASE=postgres
+@SET PGUSER=postgres
+@SET PGPORT=5432
+@SET PGLOCALEDIR=%~dp0\share\locale
+REM "%~dp0\bin\initdb" -U postgres -W -E UTF8 --auth=trust
+"%~dp0\bin\pg_ctl" -D "%~dp0/data" -l logfile start
+pause
+
+Save this file in the root installation folder.  Run this batch file to start your PostgreSQL server from now on.
+You can add it to your Windows "Start Up" or run it manually.  To add this batch file to Startup, see this article: https://www.computerhope.com/issues/ch000322.htm
+
+NOTE: This sets up your PostgreSQL server to be accessible from only your local machine.  To configure your PostgreSQL server
+otherwise, is beyond the scope of this batch file.
+
+5) Create "stop_postgres.bat" file with the following contents:
+@ECHO ON
+@SET PATH="%~dp0\bin";%PATH%
+@SET PGDATA=%~dp0\data
+@SET PGDATABASE=postgres
+@SET PGUSER=postgres
+@SET PGPORT=5432
+@SET PGLOCALEDIR=%~dp0\share\locale
+"%~dp0\bin\initdb" -U postgres -W -E UTF8 --auth=trust
+"%~dp0\bin\pg_ctl" -D "%~dp0/data" -l logfile stop
+pause
+
+Then save "stop_postgres.bat" in the root PostgreSQL installation folder.  This will properly shut down your PostgreSQL server.
+
+
+
+These instructions were inspired by this old article: https://www.postgresonline.com/journal/index.php?/archives/172-Starting-PostgreSQL-in-windows-without-install.html

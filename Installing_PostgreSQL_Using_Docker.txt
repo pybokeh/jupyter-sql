@@ -1,0 +1,47 @@
+# Pull latest official postgres image
+sudo docker pull postgres
+
+# Create local postgres data folder to be used by your Postgres container
+mkdir ~/postgres-data
+
+sudo docker run --name my-postgres -e POSTGRES_PASSWORD=mysecretpassword -v ~/postgres-data:/var/lib/postgresql/data -v ~/csv:/var/local -p 5432:5432 --user $(id -u):$(id -g) -d postgres
+
+# The --user $(id -u):$(id -g) ensures that the ~/postgres-data folder will be assigned to your username
+# otherwise, it will be assigned group 999 and then you'll have to use sudo to access it
+# The -v ~/csv:/var/local is so that we can share CSV files between container and local host.
+# Save csv filees you want to upload/COPY to the postgres server in the ~/csv folder.
+# Then use /var/local/ folder when issuing the COPY command
+
+
+# sh or start bash terminal inside the running docker container
+# so that you can take a peek into folders, generate list
+# of environment variables, etc
+# You will need to do this to wget/curl the csv files and then issue COPY commands
+# since this container is isolated from your local machine or alternatively, if you've mapped your hosts's ~/csv folder to container's /var/local folder, you can place CSV files there
+sudo docker exec -it <containerid_or_name> sh
+or 
+sudo docker exec -it <containerid_or_name> /bin/bash
+
+
+# Once inside the container using exec -it command, connect with psql SQL client with the password you used in the docker run command abobve
+psql -h localhost -U postgres -d postgres
+
+
+# Generate list of running and not running docker containers
+sudo docker ps -a
+
+
+# Remove an image
+sudo docker rm <containerid_or_name>
+
+# Start a docker container
+sudo docker start <containerid_or_name>
+
+# Stop a docker container
+sudo docker stop <containerid_or_name>
+
+# View list of built images
+sudo docker images
+
+# If you are running Postgres in Windows Subsystem for Linux (WSL) and want to connect from Windows host, need to find out what the IP address of your WSL is:
+wsl.exe hostname -I
