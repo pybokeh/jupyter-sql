@@ -48,7 +48,7 @@ otherwise, is beyond the scope of this batch file.
 @SET PGUSER=postgres
 @SET PGPORT=5432
 @SET PGLOCALEDIR=%~dp0\share\locale
-"%~dp0\bin\initdb" -U postgres -W -E UTF8 --auth=trust
+REM "%~dp0\bin\initdb" -U postgres -W -E UTF8 --auth=trust
 "%~dp0\bin\pg_ctl" -D "%~dp0/data" -l logfile stop
 pause
 
