@@ -397,3 +397,5 @@ https://github.com/gleitz/howdoi
 # Real-time Travel Time and Distance
 https://github.com/kovacsbalu/WazeRouteCalculator
 
+# Weibull survival analysis
+https://github.com/derrynknife/SurPyval

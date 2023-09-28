@@ -120,3 +120,6 @@ https://aeturrell.github.io/coding-for-economists/vis-common-plots.html
 
 # Unofficial Python Wheels for Geospatial
 https://github.com/cgohlke/geospatial-wheels/
+
+# Weibull survival analysis
+https://github.com/derrynknife/SurPyval
