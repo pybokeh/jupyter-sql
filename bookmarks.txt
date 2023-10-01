@@ -104,11 +104,10 @@ https://www.youtube.com/watch?v=jEgVto5QME8
 
 # Time Series Forecasting
 https://github.com/zgana/fpp3-python-readalong
-https://www.youtube.com/watch?v=Vycv3Y-B0V8&list=PL4GjoPPG4VqPMTIaR0LlU9xMw97Q9FwT6
-https://www.youtube.com/watch?v=O5pataOw33Y
-https://www.youtube.com/watch?v=2XGSIlgUBDI
-https://www.youtube.com/watch?v=_qv_7lEuiZg
-https://www.analyticsvidhya.com/blog/2020/10/how-to-create-an-arima-model-for-time-series-forecasting-in-python/
+https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b
+https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-arima-in-python-3
+https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
+https://www.machinelearningplus.com/time-series/time-series-analysis-python/
 
 # Understanding Imports/Packaging
 https://dagster.io/blog/python-packages-primer-1
