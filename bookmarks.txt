@@ -104,8 +104,8 @@ https://www.youtube.com/watch?v=jEgVto5QME8
 
 # Time Series Forecasting
 https://github.com/zgana/fpp3-python-readalong
-https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b
-https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-arima-in-python-3
+https://www.methsoft.ac.cn/scipaper_files/document_files/Manning.Time.Series.Forecasting.in.Python.pdf
+https://github.com/marcopeix/TimeSeriesForecastingInPython
 https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
 https://www.machinelearningplus.com/time-series/time-series-analysis-python/
 
