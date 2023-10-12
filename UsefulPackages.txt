@@ -18,12 +18,6 @@ Faster pandas apply: https://github.com/jmcarpenter2/swifter
 framequery: https://github.com/chmp/framequery
 DTale: Pandas dataframe viewer: https://github.com/man-group/dtale/blob/master/README.md
 
-# Dask related YouTube videos
-dask jupyterlab extension: https://www.youtube.com/watch?v=EX_voquHdk0
-dask futures: https://www.youtube.com/watch?v=07EiCpdhtDE
-dask delayed: https://www.youtube.com/watch?v=SHqFmynRxVU
-Setting up Dask with scheduler and workers via CLI: https://www.youtube.com/watch?v=TQM9zIBzNBo
-
 # Exploratory Data Analysis
 sweetviz: https://github.com/fbdesignpro/sweetviz
 dataprep: https://github.com/sfu-db/dataprep

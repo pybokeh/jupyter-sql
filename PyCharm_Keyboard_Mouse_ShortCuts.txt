@@ -1,0 +1,3 @@
+# Multi Cursors
+With mouse click: hold down Alt key, then left-mouse click
+Without mouse click: press CTRL key twice, holding down CTRL key on 2nd press.  Then use up, down arrow keys

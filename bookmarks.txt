@@ -49,14 +49,24 @@ pivot_longer: https://www.youtube.com/watch?v=-0pjPE6VgDs
 pivot_longer with selector: https://www.youtube.com/watch?v=2Ff031w9ULs
 Snowflake udf scalar function: https://www.youtube.com/watch?v=VyGuIuaufCk
 
+# Linux command line tips n tricks
+Printing the 5th line in csv file using sed: sed -n '5p' yourfile.csv
+Printing a range of lines in csv file using sed: sed -n '5,10p' yourfile.csv
+Printing the 5th line in csv file using head/tail combo: head -n 5 yourfile.csv | tail -n 1
+Printing a range of lines in csv file using head/tail combo: head -n 10 yourfile.csv | tail -n +5
+Limiting or filtering output in terminal using grep:  man ls | grep "list"
+Limiting or filtering output in terminal using grep using OR logic: man ls | grep -E "list|List"
+
 # Java How to find location of Java
 https://askubuntu.com/questions/772235/how-to-find-path-to-java
 
 # JSON related
 flatten JSON using pandas: https://github.com/BindiChen/machine-learning/blob/main/data-analysis/028-pandas-json_normalize/pandas-json_normalize.ipynb
+Using Snowflake: https://docs.snowflake.com/en/user-guide/querying-semistructured
 
 # Jupyter related
 Creating a public gist from a notebook: https://stackoverflow.com/questions/42678737/creating-gist-directly-from-jupyper-notebook
+Basically, navigate to https://gist.github.com/YOUR-GITHUB-USERNAME/ then add new gist / plus sign.  Drag/Drop your .ipynb file
 
 # Linux
 https://tutonics.com/2012/12/linux-file-permissions-chmod-umask.html
@@ -88,9 +98,12 @@ installing, win10: https://kontext.tech/column/spark/450/install-spark-300-on-wi
 sql: https://analyticshut.com/reading-data-from-sql-tables-in-spark/
 sql, docs: https://spark.apache.org/docs/latest/sql-data-sources-jdbc.html
 Snowflake: https://www.phdata.io/blog/how-to-connect-snowflake-using-spark/
+Data wrangling exercises: https://www.machinelearningplus.com/pyspark/pyspark-exercises-101-pyspark-exercises-for-data-analysis/
 
 # Python development workflow: git to pypi
 Pay special attention to the 3rd video on "Setup": https://calmcode.io/setup/introduction.html
+Minimal pyproject.toml file in order to install python packages globally using "editable" pip install via "pip install -e ." :
+https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html
 https://dagster.io/blog/python-packages-primer-1
 https://dagster.io/blog/python-packages-primer-2
 https://dagster.io/blog/python-project-best-practices
@@ -120,6 +133,3 @@ https://aeturrell.github.io/coding-for-economists/vis-common-plots.html
 
 # Unofficial Python Wheels for Geospatial
 https://github.com/cgohlke/geospatial-wheels/
-
-# Weibull survival analysis
-https://github.com/derrynknife/SurPyval
