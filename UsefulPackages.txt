@@ -11,7 +11,7 @@ scikit-learn
 pingouin: https://pingouin-stats.org/index.html
 
 # pandas related
-pandas-profiling: https://github.com/pandas-profiling/pandas-profiling
+pandas-profiling: https://github.com/ydataai/ydata-profiling
 sidetable: https://github.com/chris1610/sidetable
 https://github.com/SauceCat/pydqc
 Faster pandas apply: https://github.com/jmcarpenter2/swifter
@@ -70,6 +70,7 @@ pyarrow
 fastparquet
 dampr: https://github.com/Refefer/Dampr
 datatable: https://github.com/h2oai/datatable (Windows not supported yet)
+fugue-project: https://github.com/fugue-project/fugue
 polars: https://github.com/pola-rs/polars
 ibis: http://ibis-project.org/
 
@@ -125,7 +126,7 @@ gif maker: https://github.com/maxhumber/gif
 # Dashboard / Data App libraries
 dash: dashboard library from plotly
 panel: https://panel.pyviz.org/index.html (more viz agnostic with bokeh backend)
-From jupyter notebooks to apps: https://github.com/voila-dashboards/voila
+voila: https://github.com/voila-dashboards/voila
 https://github.com/voila-dashboards/voila-gridstack/blob/master/README.md
 remi: https://github.com/dddomodossola/remi
 streamlit: https://github.com/streamlit/streamlit
@@ -209,16 +210,16 @@ fluke: https://github.com/manoss96/fluke
 sqlmesh: https://github.com/TobikoData/sqlmesh
 
 # Data validation and cleaning frameworks
-https://github.com/great-expectations/great_expectations
-https://github.com/pyeve/cerberus
-https://github.com/cosmicBboy/pandera
-https://pyjanitor.readthedocs.io/
-https://github.com/keleshev/schema
-https://github.com/TMiguelT/PandasSchema
-https://github.com/TomAugspurger/engarde
-https://github.com/jcrist/msgspec
-https://github.com/awslabs/python-deequ
-https://github.com/capitalone/DataProfiler
+great_expectations: https://github.com/great-expectations/great_expectations
+cerberus: https://github.com/pyeve/cerberus
+pandera: https://github.com/cosmicBboy/pandera
+pyjanitor: https://pyjanitor.readthedocs.io/
+schema: https://github.com/keleshev/schema
+PandasSchema: https://github.com/TMiguelT/PandasSchema
+engarde: https://github.com/TomAugspurger/engarde
+msgspec: https://github.com/jcrist/msgspec
+python-deequ: https://github.com/awslabs/python-deequ
+DataProfiler: https://github.com/capitalone/DataProfiler
 
 # R related
 rpy2
@@ -391,5 +392,6 @@ https://github.com/gleitz/howdoi
 # Real-time Travel Time and Distance
 https://github.com/kovacsbalu/WazeRouteCalculator
 
-# Weibull survival analysis
-https://github.com/derrynknife/SurPyval
+# Weibull failure forecasting
+reliability: https://reliability.readthedocs.io/en/latest/
+lifelines: https://lifelines.readthedocs.io/en/latest/index.html

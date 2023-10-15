@@ -67,6 +67,10 @@ Using Snowflake: https://docs.snowflake.com/en/user-guide/querying-semistructure
 # Jupyter related
 Creating a public gist from a notebook: https://stackoverflow.com/questions/42678737/creating-gist-directly-from-jupyper-notebook
 Basically, navigate to https://gist.github.com/YOUR-GITHUB-USERNAME/ then add new gist / plus sign.  Drag/Drop your .ipynb file
+# Autoreload changes to environment or packages
+%load_ext autoreload
+%autoreload 2
+
 
 # Linux
 https://tutonics.com/2012/12/linux-file-permissions-chmod-umask.html
