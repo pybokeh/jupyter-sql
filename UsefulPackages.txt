@@ -45,7 +45,10 @@ pyinstrument: https://github.com/joerick/pyinstrument
 https://www.markkeller.dev/2018-07-14-optimize_python/
 scalene: https://github.com/emeryberger/scalene (Windows not support or requires WSL)
 
-# Forecasting
+# Environment variables management
+python-dotenv: https://github.com/theskumar/python-dotenv
+
+# Forecasting (Time Series)
 pmdarima (formerly pyramid-arima): https://github.com/tgsmith61591/pmdarima/
 https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
 fbprophet: time series forecasting (additive model) which performs best with high frequency data
@@ -55,6 +58,9 @@ sktime: https://github.com/alan-turing-institute/sktime
 darts: https://github.com/unit8co/darts
 hcrystalball: https://github.com/heidelbergcement/hcrystalball
 statsforecast: https://github.com/Nixtla/statsforecast
+
+# Failure Forecasting
+reliability: https://github.com/MatthewReid854/reliability
 
 # For survival analysis, modeling churn and conversion rates
 lifelines: survival analysis: https://github.com/CamDavidsonPilon/lifelines

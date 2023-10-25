@@ -65,6 +65,7 @@ flatten JSON using pandas: https://github.com/BindiChen/machine-learning/blob/ma
 Using Snowflake: https://docs.snowflake.com/en/user-guide/querying-semistructured
 
 # Jupyter related
+nbsanity.com: https://nbsanity.com/your_github_username/repo/your_notebook.ipynb
 Creating a public gist from a notebook: https://stackoverflow.com/questions/42678737/creating-gist-directly-from-jupyper-notebook
 Basically, navigate to https://gist.github.com/YOUR-GITHUB-USERNAME/ then add new gist / plus sign.  Drag/Drop your .ipynb file
 # Autoreload changes to environment or packages
@@ -81,6 +82,7 @@ https://drawingfromdata.com/pandas/grouping/pandas-groupby-transform-aggregate-f
 # pip installing from master branch
 https://pip.pypa.io/en/stable/topics/vcs-support/#url-fragments
 new syntax: pip install 'ibis-framework[duckdb]@git+https://github.com/ibis-project/ibis@master'
+old syntax: pip install git+https://github.com/ibis-project/ibis.git@master
 
 # PostgreSQL
 https://hakibenita.com/postgresql-unknown-features
