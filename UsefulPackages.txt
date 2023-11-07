@@ -79,6 +79,7 @@ datatable: https://github.com/h2oai/datatable (Windows not supported yet)
 fugue-project: https://github.com/fugue-project/fugue
 polars: https://github.com/pola-rs/polars
 ibis: http://ibis-project.org/
+daft: https://github.com/Eventual-Inc/Daft
 
 # visualization libraries
 MATPLOTLIB
@@ -166,6 +167,7 @@ Jupyter "books": https://github.com/jupyter/jupyter-book
 hover tool tips: https://github.com/krassowski/jupyterlab-lsp
 real-time plots in jupyter: https://lvwerra.github.io/jupyterplot/
 Notebook publishing with quarto: https://github.com/quarto-dev/quarto-cli
+jpterm: https://github.com/davidbrochart/jpterm
 
 # database related
 pyodbc
