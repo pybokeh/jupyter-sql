@@ -48,6 +48,7 @@ map() with lambda for applying scalar function to an array: https://www.youtube.
 pivot_longer: https://www.youtube.com/watch?v=-0pjPE6VgDs
 pivot_longer with selector: https://www.youtube.com/watch?v=2Ff031w9ULs
 Snowflake udf scalar function: https://www.youtube.com/watch?v=VyGuIuaufCk
+ibis UDF: https://gist.github.com/pybokeh/9fd661dd3c430da2a8dcbb65c8e3d007?permalink_comment_id=4722957
 
 # Linux command line tips n tricks
 Printing the 5th line in csv file using sed: sed -n '5p' yourfile.csv
