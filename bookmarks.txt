@@ -113,6 +113,10 @@ https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html
 https://dagster.io/blog/python-packages-primer-1
 https://dagster.io/blog/python-packages-primer-2
 https://dagster.io/blog/python-project-best-practices
+Need to include the following in your pyproject.toml file:
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
 
 # Snowflake
 Tutorials: https://share-docs.clickup.com/37466271/d/h/13qc4z-104/d4346819bd8d510
