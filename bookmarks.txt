@@ -16,6 +16,7 @@ YT video: https://youtu.be/sCUYBa-glh0
 Another good tutorial: https://www.youtube.com/live/kpco5u1zG9Y
 partitioning: https://dagster.io/blog/partitioned-data-pipelines
 YT video example partitioning: https://www.youtube.com/watch?v=LFOikWqCOAM
+YT video for io manager: https://www.youtube.com/watch?v=f1TbVGdhmYg
 
 # data engineering
 design patterns: https://www.startdataengineering.com/post/design-patterns/
