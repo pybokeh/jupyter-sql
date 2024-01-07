@@ -77,7 +77,6 @@ Installing R kernel: https://irkernel.github.io/installation/
 %load_ext autoreload
 %autoreload 2
 
-
 # Linux
 https://tutonics.com/2012/12/linux-file-permissions-chmod-umask.html
 
@@ -112,15 +111,16 @@ Snowflake: https://www.phdata.io/blog/how-to-connect-snowflake-using-spark/
 Data wrangling exercises: https://www.machinelearningplus.com/pyspark/pyspark-exercises-101-pyspark-exercises-for-data-analysis/
 
 # Python development workflow: git to pypi
-Pay special attention to the 3rd video on "Setup": https://calmcode.io/setup/introduction.html
+Pay special attention to the 3rd video on "Setup": https://calmcode.io/setup/introduction.html (OUTDATED / DEPRECATED: use pyproject.toml)
 Minimal pyproject.toml file in order to install python packages globally using "editable" pip install via "pip install -e ." :
-https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html
+https://packaging.python.org/en/latest/guides/writing-pyproject-toml/
+https://til.simonwillison.net/python/pyproject
 https://dagster.io/blog/python-packages-primer-1
 https://dagster.io/blog/python-packages-primer-2
 https://dagster.io/blog/python-project-best-practices
 Need to include the following in your pyproject.toml file:
 [build-system]
-requires = ["setuptools", "setuptools-scm"]
+requires = ["setuptools >= 61.0"]
 build-backend = "setuptools.build_meta"
 
 # Snowflake
