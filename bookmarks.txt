@@ -127,6 +127,9 @@ build-backend = "setuptools.build_meta"
 Tutorials: https://share-docs.clickup.com/37466271/d/h/13qc4z-104/d4346819bd8d510
 Working with JSON: https://medium.com/snowflake/working-with-semi-structured-data-in-snowflake-e74525c5514
 
+# SQL
+tutorial: https://gvwilson.github.io/sql-tutorial/
+
 # Tableau
 https://www.youtube.com/watch?v=jEgVto5QME8
 
