@@ -7,6 +7,9 @@ jupyter
 statsmodels
 scikit-learn
 
+# Drop-in replacement for pip
+uv: https://github.com/astral-sh/uv
+
 # List of Python frameworks
 https://pythonframeworks.com/
 
