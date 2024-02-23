@@ -29,6 +29,9 @@ Quick start guide: https://docs.getdbt.com/docs/quickstarts/dbt-core/quickstart
 Setting up dbt with Snowflake profile with SSO externalbrowser authentication: https://docs.getdbt.com/reference/warehouse-setups/snowflake-setup#sso-authentication
 Using python with dbt: https://www.datafold.com/blog/dbt-python
 
+# Docker
+cheatsheet: https://devopscycle.com/blog/the-ultimate-docker-cheat-sheet/
+
 # duckdb
 json: https://duckdb.org/2023/03/03/json.html
 
