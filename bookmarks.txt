@@ -154,3 +154,6 @@ https://aeturrell.github.io/coding-for-economists/vis-common-plots.html
 
 # Unofficial Python Wheels for Geospatial
 https://github.com/cgohlke/geospatial-wheels/
+
+# Webscraping
+https://jacobpadilla.com/articles/advanced-web-scraping-techniques
