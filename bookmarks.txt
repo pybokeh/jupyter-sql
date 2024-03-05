@@ -112,6 +112,7 @@ sql: https://analyticshut.com/reading-data-from-sql-tables-in-spark/
 sql, docs: https://spark.apache.org/docs/latest/sql-data-sources-jdbc.html
 Snowflake: https://www.phdata.io/blog/how-to-connect-snowflake-using-spark/
 Data wrangling exercises: https://www.machinelearningplus.com/pyspark/pyspark-exercises-101-pyspark-exercises-for-data-analysis/
+spark tutorial site: https://sparkmadeeasy.com/
 
 # Python development workflow: git to pypi
 Pay special attention to the 3rd video on "Setup": https://calmcode.io/setup/introduction.html (OUTDATED / DEPRECATED: use pyproject.toml)
