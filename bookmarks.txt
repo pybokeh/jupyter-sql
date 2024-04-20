@@ -118,6 +118,7 @@ spark tutorial site: https://sparkmadeeasy.com/
 Pay special attention to the 3rd video on "Setup": https://calmcode.io/setup/introduction.html (OUTDATED / DEPRECATED: use pyproject.toml)
 Minimal pyproject.toml file in order to install python packages globally using "editable" pip install via "pip install -e ." :
 https://packaging.python.org/en/latest/guides/writing-pyproject-toml/
+https://jonathanadly.com/open-sourcing-a-python-project-the-right-way-in-2024
 https://til.simonwillison.net/python/pyproject
 https://dagster.io/blog/python-packages-primer-1
 https://dagster.io/blog/python-packages-primer-2
