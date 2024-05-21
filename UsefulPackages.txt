@@ -86,6 +86,7 @@ fugue-project: https://github.com/fugue-project/fugue
 polars: https://github.com/pola-rs/polars
 ibis: http://ibis-project.org/
 daft: https://github.com/Eventual-Inc/Daft
+sqlframe: https://github.com/eakmanrq/sqlframe
 
 # visualization libraries
 MATPLOTLIB
