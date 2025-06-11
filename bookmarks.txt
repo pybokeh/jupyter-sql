@@ -116,6 +116,10 @@ spark tutorial site: https://sparkmadeeasy.com/
 
 # Python development workflow: git to pypi
 Pay special attention to the 3rd video on "Setup": https://calmcode.io/setup/introduction.html (OUTDATED / DEPRECATED: use pyproject.toml)
+
+# Python Packaging with pyproject.toml
+https://devsjc.github.io/blog/20240627-the-complete-guide-to-pyproject-toml/
+
 Minimal pyproject.toml file in order to install python packages globally using "editable" pip install via "pip install -e ." :
 https://packaging.python.org/en/latest/guides/writing-pyproject-toml/
 https://jonathanadly.com/open-sourcing-a-python-project-the-right-way-in-2024
