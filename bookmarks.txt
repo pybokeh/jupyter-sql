@@ -119,6 +119,7 @@ Pay special attention to the 3rd video on "Setup": https://calmcode.io/setup/int
 
 # Python Packaging with pyproject.toml
 https://devsjc.github.io/blog/20240627-the-complete-guide-to-pyproject-toml/
+https://snyk.io/blog/ultimate-guide-creating-secure-python-package/
 
 Minimal pyproject.toml file in order to install python packages globally using "editable" pip install via "pip install -e ." :
 https://packaging.python.org/en/latest/guides/writing-pyproject-toml/
