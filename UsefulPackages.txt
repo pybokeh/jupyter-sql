@@ -399,7 +399,7 @@ whenever: a library that actually handles daylight savings time change: https://
 schedule: job scheduling for humans:https://github.com/dbader/schedule
 desktop automation: pyautogui: https://github.com/asweigart/pyautogui
 desktop automation: https://github.com/andohuman/pyKey
-code formatter: https://github.com/psf/black
+code formatter: https://github.com/astral-sh/ruff
 inspect live objects: https://docs.python.org/3/library/inspect.html
 py files to reveal slides: https://github.com/apiad/auditorium
 slides in terminal: https://github.com/vinayak-mehta/present
