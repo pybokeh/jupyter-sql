@@ -237,6 +237,7 @@ engarde: https://github.com/TomAugspurger/engarde
 msgspec: https://github.com/jcrist/msgspec
 python-deequ: https://github.com/awslabs/python-deequ
 DataProfiler: https://github.com/capitalone/DataProfiler
+Schedium: https://github.com/MarcBresson/schedium
 
 # R related
 rpy2
@@ -394,6 +395,7 @@ phylopandas: https://github.com/Zsailer/phylopandas
 
 # Misc.
 pendulum: a better datetime library, better than arrow
+whenever: a library that actually handles daylight savings time change: https://github.com/ariebovenberg/whenever
 schedule: job scheduling for humans:https://github.com/dbader/schedule
 desktop automation: pyautogui: https://github.com/asweigart/pyautogui
 desktop automation: https://github.com/andohuman/pyKey
