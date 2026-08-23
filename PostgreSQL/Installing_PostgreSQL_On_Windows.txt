@@ -1,0 +1,39 @@
+Installing Postgres on Windows with Zip Archive (when you don't have admin rights to your machine)
+
+Download zip archive: https://www.enterprisedb.com/download-postgresql-binaries
+
+1) Extract zip
+
+2) Create "data" folder in your root PostgreSQL installation folder
+
+3) Create "start_postgres.bat" file with the following contents:
+@ECHO ON
+@SET "PATH=%~dp0bin;%PATH%"
+@SET PGDATA=%~dp0data
+@SET PGDATABASE=postgres
+@SET PGUSER=postgres
+@SET PGPORT=5432
+@SET PGLOCALEDIR=%~dp0share\locale
+initdb -U postgres -W -E UTF8 -D "%PGDATA%" --auth=trust
+"%~dp0bin\pg_ctl" -D "%PGDATA%" -o "-p %PGPORT%" -l logfile start
+pause
+
+Then save "start_postgres.bat" in the root PostgreSQL installation folder.  Run this .bat/batch file once, then exit out of it.
+Then edit "start_postgres.bat" by placing REM at the start of the line containing the initdb command - this prevents initdb from executing again.
+Then from now on, run this batch file to start your PostgreSQL server without executing initdb.  You can add it to your Windows "Start Up" or run
+it manually.  To add this batch file to Startup, see this article: https://www.computerhope.com/issues/ch000322.htm
+
+NOTE: This sets up your PostgreSQL server to be accessible from only your local machine.  To configure your PostgreSQL server
+otherwise, is beyond the scope of this batch file.
+
+4) Create "stop_postgres.bat" file with the following contents:
+@ECHO ON
+REM Shutting down the PostgreSQL server...
+"%~dp0\bin\pg_ctl" stop -D "%~dp0\data"
+pause
+
+Then save "stop_postgres.bat" in the root PostgreSQL installation folder.  This will properly shut down your PostgreSQL server.
+
+
+
+These instructions were inspired by this old article: https://www.postgresonline.com/journal/index.php?/archives/172-Starting-PostgreSQL-in-windows-without-install.html

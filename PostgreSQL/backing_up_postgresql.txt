@@ -1,0 +1,17 @@
+# Backing up logical database
+pg_dump -U <username> -d <database_name> -f <backup_file_name.sql>
+  - <username> is the username to connect to the database.
+  - <database_name> is the name of the database you want to backup.
+  - <backup_file_name.sql> is the name of the file where the backup will be saved. This should have a .sql extension
+
+# Backing up physical database
+pg_basebackup -U <username> -D <backup_directory> -Ft -z -P -Xs -c fast
+  - <username> is the username to connect to the database.
+  - <backup_directory> is the directory where the backup will be saved.
+  - -Ft specifies the format as tar.
+  - -z compresses the backup.
+  - -P shows progress information.
+  - -Xs sets synchronous replication to 'local'.
+  - -c fast sets the backup mode to "fast."
+
+
