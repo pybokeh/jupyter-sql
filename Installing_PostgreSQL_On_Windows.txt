@@ -6,23 +6,24 @@ Download zip archive: https://www.enterprisedb.com/download-postgresql-binaries
 
 2) Create "data" folder in your root PostgreSQL installation folder
 
-3) Create "initialize_postgres.bat" file with the following contents:
+3) Create "start_postgres.bat" file with the following contents:
+REM Only run the initdb command once, then comment the line - place REM in front
 @ECHO ON
-@SET PATH="%~dp0\bin";%PATH%
-@SET PGDATA=%~dp0\data
+@SET "PATH=%~dp0bin;%PATH%"
+@SET PGDATA=%~dp0data
 @SET PGDATABASE=postgres
 @SET PGUSER=postgres
 @SET PGPORT=5432
-@SET PGLOCALEDIR=%~dp0\share\locale
-"%~dp0\bin\initdb" -U postgres -W -E UTF8 --auth=trust
-REM "%~dp0\bin\pg_ctl" -D "%~dp0/data" -l logfile start
+@SET PGLOCALEDIR=%~dp0share\locale
+initdb -U postgres -W -E UTF8 -D "%PGDATA%" --auth=trust
+REM "%~dp0bin\pg_ctl" -D "%PGDATA%" -o "-p %PGPORT%" -l logfile start
 pause
 
 Save this file in the root installation folder.  Then run this once and ONLY once.
 
 You will be prompted to enter your password twice.
 
-4) Create "start_postgres.bat" file with the following contents:
+4) Open/Edit "start_postgres.bat" file and REM/comment out the initdb command line and uncomment/remove REM from the pg_ctl command line:
 @ECHO ON
 @SET PATH="%~dp0\bin";%PATH%
 @SET PGDATA=%~dp0\data
