@@ -1,0 +1,801 @@
+﻿Year,Month,Month_Number,Data_Item,Value,Units,Source
+2024,August,8,Ground chuck retail price,5.638,Dollars per pound,BLS
+2024,September,9,Ground chuck retail price,5.576,Dollars per pound,BLS
+2024,October,10,Ground chuck retail price,5.586,Dollars per pound,BLS
+2024,November,11,Ground chuck retail price,5.605,Dollars per pound,BLS
+2024,December,12,Ground chuck retail price,5.576,Dollars per pound,BLS
+2025,January,1,Ground chuck retail price,5.495,Dollars per pound,BLS
+2025,February,2,Ground chuck retail price,5.744,Dollars per pound,BLS
+2025,March,3,Ground chuck retail price,5.854,Dollars per pound,BLS
+2025,April,4,Ground chuck retail price,5.996,Dollars per pound,BLS
+2025,May,5,Ground chuck retail price,6.018,Dollars per pound,BLS
+2025,June,6,Ground chuck retail price,6.103,Dollars per pound,BLS
+2025,July,7,Ground chuck retail price,6.338,Dollars per pound,BLS
+2025,August,8,Ground chuck retail price,6.626,Dollars per pound,BLS
+2025,September,9,Ground chuck retail price,6.326,Dollars per pound,BLS
+2025,October,10,Ground chuck retail price,NA,Dollars per pound,BLS
+2025,November,11,Ground chuck retail price,6.504,Dollars per pound,BLS
+2025,December,12,Ground chuck retail price,6.521,Dollars per pound,BLS
+2026,January,1,Ground chuck retail price,6.693,Dollars per pound,BLS
+2026,February,2,Ground chuck retail price,6.703,Dollars per pound,BLS
+2026,March,3,Ground chuck retail price,6.684,Dollars per pound,BLS
+2026,April,4,Ground chuck retail price,6.921,Dollars per pound,BLS
+2026,May,5,Ground chuck retail price,6.718,Dollars per pound,BLS
+2026,June,6,Ground chuck retail price,6.975,Dollars per pound,BLS
+2026,July,7,Ground chuck retail price,6.85,Dollars per pound,BLS
+2026,August,8,Ground chuck retail price,6.774,Dollars per pound,BLS
+2024,August,8,Ground beef retail price,5.577,Dollars per pound,BLS
+2024,September,9,Ground beef retail price,5.67,Dollars per pound,BLS
+2024,October,10,Ground beef retail price,5.588,Dollars per pound,BLS
+2024,November,11,Ground beef retail price,5.628,Dollars per pound,BLS
+2024,December,12,Ground beef retail price,5.605,Dollars per pound,BLS
+2025,January,1,Ground beef retail price,5.545,Dollars per pound,BLS
+2025,February,2,Ground beef retail price,5.625,Dollars per pound,BLS
+2025,March,3,Ground beef retail price,5.79,Dollars per pound,BLS
+2025,April,4,Ground beef retail price,5.801,Dollars per pound,BLS
+2025,May,5,Ground beef retail price,5.981,Dollars per pound,BLS
+2025,June,6,Ground beef retail price,6.12,Dollars per pound,BLS
+2025,July,7,Ground beef retail price,6.254,Dollars per pound,BLS
+2025,August,8,Ground beef retail price,6.318,Dollars per pound,BLS
+2025,September,9,Ground beef retail price,6.323,Dollars per pound,BLS
+2025,October,10,Ground beef retail price,NA,Dollars per pound,BLS
+2025,November,11,Ground beef retail price,6.54,Dollars per pound,BLS
+2025,December,12,Ground beef retail price,6.687,Dollars per pound,BLS
+2026,January,1,Ground beef retail price,6.752,Dollars per pound,BLS
+2026,February,2,Ground beef retail price,6.739,Dollars per pound,BLS
+2026,March,3,Ground beef retail price,6.701,Dollars per pound,BLS
+2026,April,4,Ground beef retail price,6.899,Dollars per pound,BLS
+2026,May,5,Ground beef retail price,6.745,Dollars per pound,BLS
+2026,June,6,Ground beef retail price,6.825,Dollars per pound,BLS
+2026,July,7,Ground beef retail price,6.885,Dollars per pound,BLS
+2026,August,8,Ground beef retail price,6.923,Dollars per pound,BLS
+2024,August,8,Lean & extra lean ground beef retail price,6.918,Dollars per pound,BLS
+2024,September,9,Lean & extra lean ground beef retail price,7.223,Dollars per pound,BLS
+2024,October,10,Lean & extra lean ground beef retail price,7.22,Dollars per pound,BLS
+2024,November,11,Lean & extra lean ground beef retail price,6.977,Dollars per pound,BLS
+2024,December,12,Lean & extra lean ground beef retail price,7.124,Dollars per pound,BLS
+2025,January,1,Lean & extra lean ground beef retail price,7.11,Dollars per pound,BLS
+2025,February,2,Lean & extra lean ground beef retail price,7.244,Dollars per pound,BLS
+2025,March,3,Lean & extra lean ground beef retail price,7.476,Dollars per pound,BLS
+2025,April,4,Lean & extra lean ground beef retail price,7.551,Dollars per pound,BLS
+2025,May,5,Lean & extra lean ground beef retail price,7.688,Dollars per pound,BLS
+2025,June,6,Lean & extra lean ground beef retail price,7.672,Dollars per pound,BLS
+2025,July,7,Lean & extra lean ground beef retail price,8.035,Dollars per pound,BLS
+2025,August,8,Lean & extra lean ground beef retail price,7.95,Dollars per pound,BLS
+2025,September,9,Lean & extra lean ground beef retail price,8.182,Dollars per pound,BLS
+2025,October,10,Lean & extra lean ground beef retail price,NA,Dollars per pound,BLS
+2025,November,11,Lean & extra lean ground beef retail price,8.232,Dollars per pound,BLS
+2025,December,12,Lean & extra lean ground beef retail price,8.254,Dollars per pound,BLS
+2026,January,1,Lean & extra lean ground beef retail price,8.191,Dollars per pound,BLS
+2026,February,2,Lean & extra lean ground beef retail price,8.338,Dollars per pound,BLS
+2026,March,3,Lean & extra lean ground beef retail price,8.2,Dollars per pound,BLS
+2026,April,4,Lean & extra lean ground beef retail price,8.512,Dollars per pound,BLS
+2026,May,5,Lean & extra lean ground beef retail price,8.624,Dollars per pound,BLS
+2026,June,6,Lean & extra lean ground beef retail price,8.651,Dollars per pound,BLS
+2026,July,7,Lean & extra lean ground beef retail price,8.414,Dollars per pound,BLS
+2026,August,8,Lean & extra lean ground beef retail price,8.573,Dollars per pound,BLS
+2024,August,8,All uncooked ground beef retail price,5.867,Dollars per pound,BLS
+2024,September,9,All uncooked ground beef retail price,5.917,Dollars per pound,BLS
+2024,October,10,All uncooked ground beef retail price,5.887,Dollars per pound,BLS
+2024,November,11,All uncooked ground beef retail price,5.874,Dollars per pound,BLS
+2024,December,12,All uncooked ground beef retail price,5.863,Dollars per pound,BLS
+2025,January,1,All uncooked ground beef retail price,5.82,Dollars per pound,BLS
+2025,February,2,All uncooked ground beef retail price,5.961,Dollars per pound,BLS
+2025,March,3,All uncooked ground beef retail price,6.137,Dollars per pound,BLS
+2025,April,4,All uncooked ground beef retail price,6.142,Dollars per pound,BLS
+2025,May,5,All uncooked ground beef retail price,6.245,Dollars per pound,BLS
+2025,June,6,All uncooked ground beef retail price,6.342,Dollars per pound,BLS
+2025,July,7,All uncooked ground beef retail price,6.504,Dollars per pound,BLS
+2025,August,8,All uncooked ground beef retail price,6.631,Dollars per pound,BLS
+2025,September,9,All uncooked ground beef retail price,6.643,Dollars per pound,BLS
+2025,October,10,All uncooked ground beef retail price,NA,Dollars per pound,BLS
+2025,November,11,All uncooked ground beef retail price,6.781,Dollars per pound,BLS
+2025,December,12,All uncooked ground beef retail price,6.821,Dollars per pound,BLS
+2026,January,1,All uncooked ground beef retail price,6.868,Dollars per pound,BLS
+2026,February,2,All uncooked ground beef retail price,6.895,Dollars per pound,BLS
+2026,March,3,All uncooked ground beef retail price,6.863,Dollars per pound,BLS
+2026,April,4,All uncooked ground beef retail price,7.056,Dollars per pound,BLS
+2026,May,5,All uncooked ground beef retail price,7.064,Dollars per pound,BLS
+2026,June,6,All uncooked ground beef retail price,7.141,Dollars per pound,BLS
+2026,July,7,All uncooked ground beef retail price,7.116,Dollars per pound,BLS
+2026,August,8,All uncooked ground beef retail price,7.158,Dollars per pound,BLS
+2024,August,8,"Chuck roast, USDA Choice, boneless retail price",7.692,Dollars per pound,BLS
+2024,September,9,"Chuck roast, USDA Choice, boneless retail price",7.596,Dollars per pound,BLS
+2024,October,10,"Chuck roast, USDA Choice, boneless retail price",7.301,Dollars per pound,BLS
+2024,November,11,"Chuck roast, USDA Choice, boneless retail price",7.578,Dollars per pound,BLS
+2024,December,12,"Chuck roast, USDA Choice, boneless retail price",7.769,Dollars per pound,BLS
+2025,January,1,"Chuck roast, USDA Choice, boneless retail price",7.694,Dollars per pound,BLS
+2025,February,2,"Chuck roast, USDA Choice, boneless retail price",8.104,Dollars per pound,BLS
+2025,March,3,"Chuck roast, USDA Choice, boneless retail price",8.097,Dollars per pound,BLS
+2025,April,4,"Chuck roast, USDA Choice, boneless retail price",7.98,Dollars per pound,BLS
+2025,May,5,"Chuck roast, USDA Choice, boneless retail price",7.875,Dollars per pound,BLS
+2025,June,6,"Chuck roast, USDA Choice, boneless retail price",8.197,Dollars per pound,BLS
+2025,July,7,"Chuck roast, USDA Choice, boneless retail price",8.439,Dollars per pound,BLS
+2025,August,8,"Chuck roast, USDA Choice, boneless retail price",8.845,Dollars per pound,BLS
+2025,September,9,"Chuck roast, USDA Choice, boneless retail price",9.232,Dollars per pound,BLS
+2025,October,10,"Chuck roast, USDA Choice, boneless retail price",NA,Dollars per pound,BLS
+2025,November,11,"Chuck roast, USDA Choice, boneless retail price",9.343,Dollars per pound,BLS
+2025,December,12,"Chuck roast, USDA Choice, boneless retail price",8.951,Dollars per pound,BLS
+2026,January,1,"Chuck roast, USDA Choice, boneless retail price",8.709,Dollars per pound,BLS
+2026,February,2,"Chuck roast, USDA Choice, boneless retail price",8.957,Dollars per pound,BLS
+2026,March,3,"Chuck roast, USDA Choice, boneless retail price",8.833,Dollars per pound,BLS
+2026,April,4,"Chuck roast, USDA Choice, boneless retail price",9.495,Dollars per pound,BLS
+2026,May,5,"Chuck roast, USDA Choice, boneless retail price",9.607,Dollars per pound,BLS
+2026,June,6,"Chuck roast, USDA Choice, boneless retail price",9.55,Dollars per pound,BLS
+2026,July,7,"Chuck roast, USDA Choice, boneless retail price",9.631,Dollars per pound,BLS
+2026,August,8,"Chuck roast, USDA Choice, boneless retail price",9.448,Dollars per pound,BLS
+2024,August,8,"Round roast, USDA Choice boneless retail price",7.161,Dollars per pound,BLS
+2024,September,9,"Round roast, USDA Choice boneless retail price",7.244,Dollars per pound,BLS
+2024,October,10,"Round roast, USDA Choice boneless retail price",7.008,Dollars per pound,BLS
+2024,November,11,"Round roast, USDA Choice boneless retail price",7.141,Dollars per pound,BLS
+2024,December,12,"Round roast, USDA Choice boneless retail price",7.486,Dollars per pound,BLS
+2025,January,1,"Round roast, USDA Choice boneless retail price",7.27,Dollars per pound,BLS
+2025,February,2,"Round roast, USDA Choice boneless retail price",7.49,Dollars per pound,BLS
+2025,March,3,"Round roast, USDA Choice boneless retail price",7.557,Dollars per pound,BLS
+2025,April,4,"Round roast, USDA Choice boneless retail price",7.616,Dollars per pound,BLS
+2025,May,5,"Round roast, USDA Choice boneless retail price",7.57,Dollars per pound,BLS
+2025,June,6,"Round roast, USDA Choice boneless retail price",7.762,Dollars per pound,BLS
+2025,July,7,"Round roast, USDA Choice boneless retail price",7.909,Dollars per pound,BLS
+2025,August,8,"Round roast, USDA Choice boneless retail price",8.13,Dollars per pound,BLS
+2025,September,9,"Round roast, USDA Choice boneless retail price",8.506,Dollars per pound,BLS
+2025,October,10,"Round roast, USDA Choice boneless retail price",NA,Dollars per pound,BLS
+2025,November,11,"Round roast, USDA Choice boneless retail price",8.943,Dollars per pound,BLS
+2025,December,12,"Round roast, USDA Choice boneless retail price",8.853,Dollars per pound,BLS
+2026,January,1,"Round roast, USDA Choice boneless retail price",8.546,Dollars per pound,BLS
+2026,February,2,"Round roast, USDA Choice boneless retail price",8.587,Dollars per pound,BLS
+2026,March,3,"Round roast, USDA Choice boneless retail price",8.477,Dollars per pound,BLS
+2026,April,4,"Round roast, USDA Choice boneless retail price",8.983,Dollars per pound,BLS
+2026,May,5,"Round roast, USDA Choice boneless retail price",8.615,Dollars per pound,BLS
+2026,June,6,"Round roast, USDA Choice boneless retail price",8.962,Dollars per pound,BLS
+2026,July,7,"Round roast, USDA Choice boneless retail price",9.155,Dollars per pound,BLS
+2026,August,8,"Round roast, USDA Choice boneless retail price",8.959,Dollars per pound,BLS
+2024,August,8,"Round steak, USDA Choice retail price",8.226,Dollars per pound,BLS
+2024,September,9,"Round steak, USDA Choice retail price",8.148,Dollars per pound,BLS
+2024,October,10,"Round steak, USDA Choice retail price",8.154,Dollars per pound,BLS
+2024,November,11,"Round steak, USDA Choice retail price",8.159,Dollars per pound,BLS
+2024,December,12,"Round steak, USDA Choice retail price",8.136,Dollars per pound,BLS
+2025,January,1,"Round steak, USDA Choice retail price",8.28,Dollars per pound,BLS
+2025,February,2,"Round steak, USDA Choice retail price",8.485,Dollars per pound,BLS
+2025,March,3,"Round steak, USDA Choice retail price",8.554,Dollars per pound,BLS
+2025,April,4,"Round steak, USDA Choice retail price",8.627,Dollars per pound,BLS
+2025,May,5,"Round steak, USDA Choice retail price",8.401,Dollars per pound,BLS
+2025,June,6,"Round steak, USDA Choice retail price",8.457,Dollars per pound,BLS
+2025,July,7,"Round steak, USDA Choice retail price",8.69,Dollars per pound,BLS
+2025,August,8,"Round steak, USDA Choice retail price",9.076,Dollars per pound,BLS
+2025,September,9,"Round steak, USDA Choice retail price",9.36,Dollars per pound,BLS
+2025,October,10,"Round steak, USDA Choice retail price",NA,Dollars per pound,BLS
+2025,November,11,"Round steak, USDA Choice retail price",9.665,Dollars per pound,BLS
+2025,December,12,"Round steak, USDA Choice retail price",9.875,Dollars per pound,BLS
+2026,January,1,"Round steak, USDA Choice retail price",9.836,Dollars per pound,BLS
+2026,February,2,"Round steak, USDA Choice retail price",10.095,Dollars per pound,BLS
+2026,March,3,"Round steak, USDA Choice retail price",9.61,Dollars per pound,BLS
+2026,April,4,"Round steak, USDA Choice retail price",9.825,Dollars per pound,BLS
+2026,May,5,"Round steak, USDA Choice retail price",9.789,Dollars per pound,BLS
+2026,June,6,"Round steak, USDA Choice retail price",9.844,Dollars per pound,BLS
+2026,July,7,"Round steak, USDA Choice retail price",10.036,Dollars per pound,BLS
+2026,August,8,"Round steak, USDA Choice retail price",9.692,Dollars per pound,BLS
+2024,August,8,All uncooked beef roasts retail price,7.63,Dollars per pound,BLS
+2024,September,9,All uncooked beef roasts retail price,7.582,Dollars per pound,BLS
+2024,October,10,All uncooked beef roasts retail price,7.368,Dollars per pound,BLS
+2024,November,11,All uncooked beef roasts retail price,7.598,Dollars per pound,BLS
+2024,December,12,All uncooked beef roasts retail price,7.719,Dollars per pound,BLS
+2025,January,1,All uncooked beef roasts retail price,7.718,Dollars per pound,BLS
+2025,February,2,All uncooked beef roasts retail price,7.995,Dollars per pound,BLS
+2025,March,3,All uncooked beef roasts retail price,7.992,Dollars per pound,BLS
+2025,April,4,All uncooked beef roasts retail price,7.995,Dollars per pound,BLS
+2025,May,5,All uncooked beef roasts retail price,7.939,Dollars per pound,BLS
+2025,June,6,All uncooked beef roasts retail price,8.203,Dollars per pound,BLS
+2025,July,7,All uncooked beef roasts retail price,8.397,Dollars per pound,BLS
+2025,August,8,All uncooked beef roasts retail price,8.723,Dollars per pound,BLS
+2025,September,9,All uncooked beef roasts retail price,9.04,Dollars per pound,BLS
+2025,October,10,All uncooked beef roasts retail price,NA,Dollars per pound,BLS
+2025,November,11,All uncooked beef roasts retail price,9.29,Dollars per pound,BLS
+2025,December,12,All uncooked beef roasts retail price,9.033,Dollars per pound,BLS
+2026,January,1,All uncooked beef roasts retail price,8.824,Dollars per pound,BLS
+2026,February,2,All uncooked beef roasts retail price,8.926,Dollars per pound,BLS
+2026,March,3,All uncooked beef roasts retail price,8.857,Dollars per pound,BLS
+2026,April,4,All uncooked beef roasts retail price,9.408,Dollars per pound,BLS
+2026,May,5,All uncooked beef roasts retail price,9.286,Dollars per pound,BLS
+2026,June,6,All uncooked beef roasts retail price,9.434,Dollars per pound,BLS
+2026,July,7,All uncooked beef roasts retail price,9.571,Dollars per pound,BLS
+2026,August,8,All uncooked beef roasts retail price,9.368,Dollars per pound,BLS
+2024,August,8,"Sirloin steak, USDA Choice boneless retail price",11.54,Dollars per pound,BLS
+2024,September,9,"Sirloin steak, USDA Choice boneless retail price",11.787,Dollars per pound,BLS
+2024,October,10,"Sirloin steak, USDA Choice boneless retail price",11.497,Dollars per pound,BLS
+2024,November,11,"Sirloin steak, USDA Choice boneless retail price",12.014,Dollars per pound,BLS
+2024,December,12,"Sirloin steak, USDA Choice boneless retail price",11.666,Dollars per pound,BLS
+2025,January,1,"Sirloin steak, USDA Choice boneless retail price",11.965,Dollars per pound,BLS
+2025,February,2,"Sirloin steak, USDA Choice boneless retail price",11.899,Dollars per pound,BLS
+2025,March,3,"Sirloin steak, USDA Choice boneless retail price",11.924,Dollars per pound,BLS
+2025,April,4,"Sirloin steak, USDA Choice boneless retail price",12.326,Dollars per pound,BLS
+2025,May,5,"Sirloin steak, USDA Choice boneless retail price",12.207,Dollars per pound,BLS
+2025,June,6,"Sirloin steak, USDA Choice boneless retail price",12.923,Dollars per pound,BLS
+2025,July,7,"Sirloin steak, USDA Choice boneless retail price",13.554,Dollars per pound,BLS
+2025,August,8,"Sirloin steak, USDA Choice boneless retail price",14.319,Dollars per pound,BLS
+2025,September,9,"Sirloin steak, USDA Choice boneless retail price",14.135,Dollars per pound,BLS
+2025,October,10,"Sirloin steak, USDA Choice boneless retail price",NA,Dollars per pound,BLS
+2025,November,11,"Sirloin steak, USDA Choice boneless retail price",13.342,Dollars per pound,BLS
+2025,December,12,"Sirloin steak, USDA Choice boneless retail price",14.027,Dollars per pound,BLS
+2026,January,1,"Sirloin steak, USDA Choice boneless retail price",13.837,Dollars per pound,BLS
+2026,February,2,"Sirloin steak, USDA Choice boneless retail price",14.191,Dollars per pound,BLS
+2026,March,3,"Sirloin steak, USDA Choice boneless retail price",14.124,Dollars per pound,BLS
+2026,April,4,"Sirloin steak, USDA Choice boneless retail price",14.727,Dollars per pound,BLS
+2026,May,5,"Sirloin steak, USDA Choice boneless retail price",14.274,Dollars per pound,BLS
+2026,June,6,"Sirloin steak, USDA Choice boneless retail price",14.451,Dollars per pound,BLS
+2026,July,7,"Sirloin steak, USDA Choice boneless retail price",14.592,Dollars per pound,BLS
+2026,August,8,"Sirloin steak, USDA Choice boneless retail price",14.357,Dollars per pound,BLS
+2024,August,8,"Beef for stew, boneless retail price",7.298,Dollars per pound,BLS
+2024,September,9,"Beef for stew, boneless retail price",7.217,Dollars per pound,BLS
+2024,October,10,"Beef for stew, boneless retail price",7.177,Dollars per pound,BLS
+2024,November,11,"Beef for stew, boneless retail price",7.432,Dollars per pound,BLS
+2024,December,12,"Beef for stew, boneless retail price",7.393,Dollars per pound,BLS
+2025,January,1,"Beef for stew, boneless retail price",7.318,Dollars per pound,BLS
+2025,February,2,"Beef for stew, boneless retail price",7.677,Dollars per pound,BLS
+2025,March,3,"Beef for stew, boneless retail price",7.601,Dollars per pound,BLS
+2025,April,4,"Beef for stew, boneless retail price",7.733,Dollars per pound,BLS
+2025,May,5,"Beef for stew, boneless retail price",7.729,Dollars per pound,BLS
+2025,June,6,"Beef for stew, boneless retail price",8.016,Dollars per pound,BLS
+2025,July,7,"Beef for stew, boneless retail price",8.188,Dollars per pound,BLS
+2025,August,8,"Beef for stew, boneless retail price",8.815,Dollars per pound,BLS
+2025,September,9,"Beef for stew, boneless retail price",8.68,Dollars per pound,BLS
+2025,October,10,"Beef for stew, boneless retail price",NA,Dollars per pound,BLS
+2025,November,11,"Beef for stew, boneless retail price",9.172,Dollars per pound,BLS
+2025,December,12,"Beef for stew, boneless retail price",8.63,Dollars per pound,BLS
+2026,January,1,"Beef for stew, boneless retail price",8.463,Dollars per pound,BLS
+2026,February,2,"Beef for stew, boneless retail price",8.358,Dollars per pound,BLS
+2026,March,3,"Beef for stew, boneless retail price",8.413,Dollars per pound,BLS
+2026,April,4,"Beef for stew, boneless retail price",8.651,Dollars per pound,BLS
+2026,May,5,"Beef for stew, boneless retail price",9.003,Dollars per pound,BLS
+2026,June,6,"Beef for stew, boneless retail price",9.304,Dollars per pound,BLS
+2026,July,7,"Beef for stew, boneless retail price",9.025,Dollars per pound,BLS
+2026,August,8,"Beef for stew, boneless retail price",8.587,Dollars per pound,BLS
+2024,August,8,All uncooked beef steaks retail price,10.875,Dollars per pound,BLS
+2024,September,9,All uncooked beef steaks retail price,10.882,Dollars per pound,BLS
+2024,October,10,All uncooked beef steaks retail price,10.565,Dollars per pound,BLS
+2024,November,11,All uncooked beef steaks retail price,10.673,Dollars per pound,BLS
+2024,December,12,All uncooked beef steaks retail price,10.626,Dollars per pound,BLS
+2025,January,1,All uncooked beef steaks retail price,10.905,Dollars per pound,BLS
+2025,February,2,All uncooked beef steaks retail price,10.868,Dollars per pound,BLS
+2025,March,3,All uncooked beef steaks retail price,10.98,Dollars per pound,BLS
+2025,April,4,All uncooked beef steaks retail price,11.12,Dollars per pound,BLS
+2025,May,5,All uncooked beef steaks retail price,11.032,Dollars per pound,BLS
+2025,June,6,All uncooked beef steaks retail price,11.491,Dollars per pound,BLS
+2025,July,7,All uncooked beef steaks retail price,11.875,Dollars per pound,BLS
+2025,August,8,All uncooked beef steaks retail price,12.222,Dollars per pound,BLS
+2025,September,9,All uncooked beef steaks retail price,12.262,Dollars per pound,BLS
+2025,October,10,All uncooked beef steaks retail price,NA,Dollars per pound,BLS
+2025,November,11,All uncooked beef steaks retail price,12.285,Dollars per pound,BLS
+2025,December,12,All uncooked beef steaks retail price,12.512,Dollars per pound,BLS
+2026,January,1,All uncooked beef steaks retail price,12.302,Dollars per pound,BLS
+2026,February,2,All uncooked beef steaks retail price,12.739,Dollars per pound,BLS
+2026,March,3,All uncooked beef steaks retail price,12.732,Dollars per pound,BLS
+2026,April,4,All uncooked beef steaks retail price,13.024,Dollars per pound,BLS
+2026,May,5,All uncooked beef steaks retail price,12.802,Dollars per pound,BLS
+2026,June,6,All uncooked beef steaks retail price,12.879,Dollars per pound,BLS
+2026,July,7,All uncooked beef steaks retail price,13.064,Dollars per pound,BLS
+2026,August,8,All uncooked beef steaks retail price,12.813,Dollars per pound,BLS
+2024,August,8,All uncooked other beef not veal retail price,7.355,Dollars per pound,BLS
+2024,September,9,All uncooked other beef not veal retail price,7.359,Dollars per pound,BLS
+2024,October,10,All uncooked other beef not veal retail price,7.109,Dollars per pound,BLS
+2024,November,11,All uncooked other beef not veal retail price,7.088,Dollars per pound,BLS
+2024,December,12,All uncooked other beef not veal retail price,6.945,Dollars per pound,BLS
+2025,January,1,All uncooked other beef not veal retail price,6.926,Dollars per pound,BLS
+2025,February,2,All uncooked other beef not veal retail price,7.165,Dollars per pound,BLS
+2025,March,3,All uncooked other beef not veal retail price,7.204,Dollars per pound,BLS
+2025,April,4,All uncooked other beef not veal retail price,7.323,Dollars per pound,BLS
+2025,May,5,All uncooked other beef not veal retail price,7.35,Dollars per pound,BLS
+2025,June,6,All uncooked other beef not veal retail price,7.469,Dollars per pound,BLS
+2025,July,7,All uncooked other beef not veal retail price,7.621,Dollars per pound,BLS
+2025,August,8,All uncooked other beef not veal retail price,7.875,Dollars per pound,BLS
+2025,September,9,All uncooked other beef not veal retail price,7.883,Dollars per pound,BLS
+2025,October,10,All uncooked other beef not veal retail price,NA,Dollars per pound,BLS
+2025,November,11,All uncooked other beef not veal retail price,8.204,Dollars per pound,BLS
+2025,December,12,All uncooked other beef not veal retail price,8.11,Dollars per pound,BLS
+2026,January,1,All uncooked other beef not veal retail price,7.849,Dollars per pound,BLS
+2026,February,2,All uncooked other beef not veal retail price,7.713,Dollars per pound,BLS
+2026,March,3,All uncooked other beef not veal retail price,7.675,Dollars per pound,BLS
+2026,April,4,All uncooked other beef not veal retail price,7.916,Dollars per pound,BLS
+2026,May,5,All uncooked other beef not veal retail price,8.013,Dollars per pound,BLS
+2026,June,6,All uncooked other beef not veal retail price,8.222,Dollars per pound,BLS
+2026,July,7,All uncooked other beef not veal retail price,8.009,Dollars per pound,BLS
+2026,August,8,All uncooked other beef not veal retail price,8.135,Dollars per pound,BLS
+2024,August,8,"Bacon, sliced retail price",6.785,Dollars per pound,BLS
+2024,September,9,"Bacon, sliced retail price",6.955,Dollars per pound,BLS
+2024,October,10,"Bacon, sliced retail price",6.869,Dollars per pound,BLS
+2024,November,11,"Bacon, sliced retail price",6.843,Dollars per pound,BLS
+2024,December,12,"Bacon, sliced retail price",6.915,Dollars per pound,BLS
+2025,January,1,"Bacon, sliced retail price",7.044,Dollars per pound,BLS
+2025,February,2,"Bacon, sliced retail price",6.798,Dollars per pound,BLS
+2025,March,3,"Bacon, sliced retail price",6.978,Dollars per pound,BLS
+2025,April,4,"Bacon, sliced retail price",7.009,Dollars per pound,BLS
+2025,May,5,"Bacon, sliced retail price",6.985,Dollars per pound,BLS
+2025,June,6,"Bacon, sliced retail price",7.098,Dollars per pound,BLS
+2025,July,7,"Bacon, sliced retail price",7.118,Dollars per pound,BLS
+2025,August,8,"Bacon, sliced retail price",7.208,Dollars per pound,BLS
+2025,September,9,"Bacon, sliced retail price",7.29,Dollars per pound,BLS
+2025,October,10,"Bacon, sliced retail price",NA,Dollars per pound,BLS
+2025,November,11,"Bacon, sliced retail price",6.928,Dollars per pound,BLS
+2025,December,12,"Bacon, sliced retail price",6.76,Dollars per pound,BLS
+2026,January,1,"Bacon, sliced retail price",6.978,Dollars per pound,BLS
+2026,February,2,"Bacon, sliced retail price",6.904,Dollars per pound,BLS
+2026,March,3,"Bacon, sliced retail price",6.801,Dollars per pound,BLS
+2026,April,4,"Bacon, sliced retail price",6.826,Dollars per pound,BLS
+2026,May,5,"Bacon, sliced retail price",6.712,Dollars per pound,BLS
+2026,June,6,"Bacon, sliced retail price",6.561,Dollars per pound,BLS
+2026,July,7,"Bacon, sliced retail price",6.584,Dollars per pound,BLS
+2026,August,8,"Bacon, sliced retail price",6.605,Dollars per pound,BLS
+2024,August,8,"Pork chops, center cut, bone in retail price",4.64,Dollars per pound,BLS
+2024,September,9,"Pork chops, center cut, bone in retail price",4.62,Dollars per pound,BLS
+2024,October,10,"Pork chops, center cut, bone in retail price",4.487,Dollars per pound,BLS
+2024,November,11,"Pork chops, center cut, bone in retail price",4.647,Dollars per pound,BLS
+2024,December,12,"Pork chops, center cut, bone in retail price",4.58,Dollars per pound,BLS
+2025,January,1,"Pork chops, center cut, bone in retail price",4.625,Dollars per pound,BLS
+2025,February,2,"Pork chops, center cut, bone in retail price",4.463,Dollars per pound,BLS
+2025,March,3,"Pork chops, center cut, bone in retail price",4.498,Dollars per pound,BLS
+2025,April,4,"Pork chops, center cut, bone in retail price",4.454,Dollars per pound,BLS
+2025,May,5,"Pork chops, center cut, bone in retail price",4.505,Dollars per pound,BLS
+2025,June,6,"Pork chops, center cut, bone in retail price",4.617,Dollars per pound,BLS
+2025,July,7,"Pork chops, center cut, bone in retail price",4.607,Dollars per pound,BLS
+2025,August,8,"Pork chops, center cut, bone in retail price",4.6,Dollars per pound,BLS
+2025,September,9,"Pork chops, center cut, bone in retail price",4.603,Dollars per pound,BLS
+2025,October,10,"Pork chops, center cut, bone in retail price",NA,Dollars per pound,BLS
+2025,November,11,"Pork chops, center cut, bone in retail price",4.526,Dollars per pound,BLS
+2025,December,12,"Pork chops, center cut, bone in retail price",4.716,Dollars per pound,BLS
+2026,January,1,"Pork chops, center cut, bone in retail price",4.453,Dollars per pound,BLS
+2026,February,2,"Pork chops, center cut, bone in retail price",4.564,Dollars per pound,BLS
+2026,March,3,"Pork chops, center cut, bone in retail price",4.571,Dollars per pound,BLS
+2026,April,4,"Pork chops, center cut, bone in retail price",4.597,Dollars per pound,BLS
+2026,May,5,"Pork chops, center cut, bone in retail price",4.905,Dollars per pound,BLS
+2026,June,6,"Pork chops, center cut, bone in retail price",NA,Dollars per pound,BLS
+2026,July,7,"Pork chops, center cut, bone in retail price",NA,Dollars per pound,BLS
+2026,August,8,"Pork chops, center cut, bone in retail price",NA,Dollars per pound,BLS
+2024,August,8,"Pork chops, boneless, retail price",4.622,Dollars per pound,BLS
+2024,September,9,"Pork chops, boneless, retail price",4.615,Dollars per pound,BLS
+2024,October,10,"Pork chops, boneless, retail price",4.585,Dollars per pound,BLS
+2024,November,11,"Pork chops, boneless, retail price",4.874,Dollars per pound,BLS
+2024,December,12,"Pork chops, boneless, retail price",4.658,Dollars per pound,BLS
+2025,January,1,"Pork chops, boneless, retail price",4.53,Dollars per pound,BLS
+2025,February,2,"Pork chops, boneless, retail price",4.558,Dollars per pound,BLS
+2025,March,3,"Pork chops, boneless, retail price",4.771,Dollars per pound,BLS
+2025,April,4,"Pork chops, boneless, retail price",4.609,Dollars per pound,BLS
+2025,May,5,"Pork chops, boneless, retail price",4.601,Dollars per pound,BLS
+2025,June,6,"Pork chops, boneless, retail price",4.618,Dollars per pound,BLS
+2025,July,7,"Pork chops, boneless, retail price",4.691,Dollars per pound,BLS
+2025,August,8,"Pork chops, boneless, retail price",4.688,Dollars per pound,BLS
+2025,September,9,"Pork chops, boneless, retail price",4.748,Dollars per pound,BLS
+2025,October,10,"Pork chops, boneless, retail price",NA,Dollars per pound,BLS
+2025,November,11,"Pork chops, boneless, retail price",4.391,Dollars per pound,BLS
+2025,December,12,"Pork chops, boneless, retail price",4.671,Dollars per pound,BLS
+2026,January,1,"Pork chops, boneless, retail price",4.433,Dollars per pound,BLS
+2026,February,2,"Pork chops, boneless, retail price",4.496,Dollars per pound,BLS
+2026,March,3,"Pork chops, boneless, retail price",4.484,Dollars per pound,BLS
+2026,April,4,"Pork chops, boneless, retail price",4.699,Dollars per pound,BLS
+2026,May,5,"Pork chops, boneless, retail price",4.616,Dollars per pound,BLS
+2026,June,6,"Pork chops, boneless, retail price",4.555,Dollars per pound,BLS
+2026,July,7,"Pork chops, boneless, retail price",4.573,Dollars per pound,BLS
+2026,August,8,"Pork chops, boneless, retail price",4.532,Dollars per pound,BLS
+2024,August,8,All pork chops retail price,4.403,Dollars per pound,BLS
+2024,September,9,All pork chops retail price,4.328,Dollars per pound,BLS
+2024,October,10,All pork chops retail price,4.273,Dollars per pound,BLS
+2024,November,11,All pork chops retail price,4.43,Dollars per pound,BLS
+2024,December,12,All pork chops retail price,4.308,Dollars per pound,BLS
+2025,January,1,All pork chops retail price,4.249,Dollars per pound,BLS
+2025,February,2,All pork chops retail price,4.226,Dollars per pound,BLS
+2025,March,3,All pork chops retail price,4.341,Dollars per pound,BLS
+2025,April,4,All pork chops retail price,4.244,Dollars per pound,BLS
+2025,May,5,All pork chops retail price,4.22,Dollars per pound,BLS
+2025,June,6,All pork chops retail price,4.264,Dollars per pound,BLS
+2025,July,7,All pork chops retail price,4.333,Dollars per pound,BLS
+2025,August,8,All pork chops retail price,4.299,Dollars per pound,BLS
+2025,September,9,All pork chops retail price,4.349,Dollars per pound,BLS
+2025,October,10,All pork chops retail price,NA,Dollars per pound,BLS
+2025,November,11,All pork chops retail price,4.097,Dollars per pound,BLS
+2025,December,12,All pork chops retail price,4.298,Dollars per pound,BLS
+2026,January,1,All pork chops retail price,4.15,Dollars per pound,BLS
+2026,February,2,All pork chops retail price,4.191,Dollars per pound,BLS
+2026,March,3,All pork chops retail price,4.181,Dollars per pound,BLS
+2026,April,4,All pork chops retail price,4.331,Dollars per pound,BLS
+2026,May,5,All pork chops retail price,4.389,Dollars per pound,BLS
+2026,June,6,All pork chops retail price,4.336,Dollars per pound,BLS
+2026,July,7,All pork chops retail price,4.244,Dollars per pound,BLS
+2026,August,8,All pork chops retail price,4.239,Dollars per pound,BLS
+2024,August,8,"Ham, boneless not canned retail price",5.633,Dollars per pound,BLS
+2024,September,9,"Ham, boneless not canned retail price",5.63,Dollars per pound,BLS
+2024,October,10,"Ham, boneless not canned retail price",5.67,Dollars per pound,BLS
+2024,November,11,"Ham, boneless not canned retail price",5.63,Dollars per pound,BLS
+2024,December,12,"Ham, boneless not canned retail price",5.458,Dollars per pound,BLS
+2025,January,1,"Ham, boneless not canned retail price",5.476,Dollars per pound,BLS
+2025,February,2,"Ham, boneless not canned retail price",5.52,Dollars per pound,BLS
+2025,March,3,"Ham, boneless not canned retail price",5.603,Dollars per pound,BLS
+2025,April,4,"Ham, boneless not canned retail price",5.473,Dollars per pound,BLS
+2025,May,5,"Ham, boneless not canned retail price",5.453,Dollars per pound,BLS
+2025,June,6,"Ham, boneless not canned retail price",5.379,Dollars per pound,BLS
+2025,July,7,"Ham, boneless not canned retail price",5.685,Dollars per pound,BLS
+2025,August,8,"Ham, boneless not canned retail price",5.432,Dollars per pound,BLS
+2025,September,9,"Ham, boneless not canned retail price",5.478,Dollars per pound,BLS
+2025,October,10,"Ham, boneless not canned retail price",NA,Dollars per pound,BLS
+2025,November,11,"Ham, boneless not canned retail price",5.462,Dollars per pound,BLS
+2025,December,12,"Ham, boneless not canned retail price",5.356,Dollars per pound,BLS
+2026,January,1,"Ham, boneless not canned retail price",5.5,Dollars per pound,BLS
+2026,February,2,"Ham, boneless not canned retail price",5.616,Dollars per pound,BLS
+2026,March,3,"Ham, boneless not canned retail price",5.479,Dollars per pound,BLS
+2026,April,4,"Ham, boneless not canned retail price",5.405,Dollars per pound,BLS
+2026,May,5,"Ham, boneless not canned retail price",5.457,Dollars per pound,BLS
+2026,June,6,"Ham, boneless not canned retail price",5.508,Dollars per pound,BLS
+2026,July,7,"Ham, boneless not canned retail price",5.492,Dollars per pound,BLS
+2026,August,8,"Ham, boneless not canned retail price",5.382,Dollars per pound,BLS
+2024,August,8,All ham (not canned or sliced) retail price,4.691,Dollars per pound,BLS
+2024,September,9,All ham (not canned or sliced) retail price,4.595,Dollars per pound,BLS
+2024,October,10,All ham (not canned or sliced) retail price,4.66,Dollars per pound,BLS
+2024,November,11,All ham (not canned or sliced) retail price,4.56,Dollars per pound,BLS
+2024,December,12,All ham (not canned or sliced) retail price,4.406,Dollars per pound,BLS
+2025,January,1,All ham (not canned or sliced) retail price,4.411,Dollars per pound,BLS
+2025,February,2,All ham (not canned or sliced) retail price,4.428,Dollars per pound,BLS
+2025,March,3,All ham (not canned or sliced) retail price,4.496,Dollars per pound,BLS
+2025,April,4,All ham (not canned or sliced) retail price,4.451,Dollars per pound,BLS
+2025,May,5,All ham (not canned or sliced) retail price,4.451,Dollars per pound,BLS
+2025,June,6,All ham (not canned or sliced) retail price,4.401,Dollars per pound,BLS
+2025,July,7,All ham (not canned or sliced) retail price,4.66,Dollars per pound,BLS
+2025,August,8,All ham (not canned or sliced) retail price,4.501,Dollars per pound,BLS
+2025,September,9,All ham (not canned or sliced) retail price,4.533,Dollars per pound,BLS
+2025,October,10,All ham (not canned or sliced) retail price,NA,Dollars per pound,BLS
+2025,November,11,All ham (not canned or sliced) retail price,4.394,Dollars per pound,BLS
+2025,December,12,All ham (not canned or sliced) retail price,4.309,Dollars per pound,BLS
+2026,January,1,All ham (not canned or sliced) retail price,4.434,Dollars per pound,BLS
+2026,February,2,All ham (not canned or sliced) retail price,4.481,Dollars per pound,BLS
+2026,March,3,All ham (not canned or sliced) retail price,4.439,Dollars per pound,BLS
+2026,April,4,All ham (not canned or sliced) retail price,4.348,Dollars per pound,BLS
+2026,May,5,All ham (not canned or sliced) retail price,4.448,Dollars per pound,BLS
+2026,June,6,All ham (not canned or sliced) retail price,4.461,Dollars per pound,BLS
+2026,July,7,All ham (not canned or sliced) retail price,4.489,Dollars per pound,BLS
+2026,August,8,All ham (not canned or sliced) retail price,4.405,Dollars per pound,BLS
+2024,August,8,All other pork excluding canned & sliced retail price,3.693,Dollars per pound,BLS
+2024,September,9,All other pork excluding canned & sliced retail price,3.719,Dollars per pound,BLS
+2024,October,10,All other pork excluding canned & sliced retail price,3.703,Dollars per pound,BLS
+2024,November,11,All other pork excluding canned & sliced retail price,3.765,Dollars per pound,BLS
+2024,December,12,All other pork excluding canned & sliced retail price,3.656,Dollars per pound,BLS
+2025,January,1,All other pork excluding canned & sliced retail price,3.704,Dollars per pound,BLS
+2025,February,2,All other pork excluding canned & sliced retail price,3.632,Dollars per pound,BLS
+2025,March,3,All other pork excluding canned & sliced retail price,3.73,Dollars per pound,BLS
+2025,April,4,All other pork excluding canned & sliced retail price,3.675,Dollars per pound,BLS
+2025,May,5,All other pork excluding canned & sliced retail price,3.66,Dollars per pound,BLS
+2025,June,6,All other pork excluding canned & sliced retail price,3.616,Dollars per pound,BLS
+2025,July,7,All other pork excluding canned & sliced retail price,3.627,Dollars per pound,BLS
+2025,August,8,All other pork excluding canned & sliced retail price,3.695,Dollars per pound,BLS
+2025,September,9,All other pork excluding canned & sliced retail price,3.825,Dollars per pound,BLS
+2025,October,10,All other pork excluding canned & sliced retail price,NA,Dollars per pound,BLS
+2025,November,11,All other pork excluding canned & sliced retail price,3.779,Dollars per pound,BLS
+2025,December,12,All other pork excluding canned & sliced retail price,3.625,Dollars per pound,BLS
+2026,January,1,All other pork excluding canned & sliced retail price,3.767,Dollars per pound,BLS
+2026,February,2,All other pork excluding canned & sliced retail price,3.522,Dollars per pound,BLS
+2026,March,3,All other pork excluding canned & sliced retail price,3.628,Dollars per pound,BLS
+2026,April,4,All other pork excluding canned & sliced retail price,3.669,Dollars per pound,BLS
+2026,May,5,All other pork excluding canned & sliced retail price,3.755,Dollars per pound,BLS
+2026,June,6,All other pork excluding canned & sliced retail price,3.771,Dollars per pound,BLS
+2026,July,7,All other pork excluding canned & sliced retail price,3.671,Dollars per pound,BLS
+2026,August,8,All other pork excluding canned & sliced retail price,3.737,Dollars per pound,BLS
+2024,August,8,Retail broiler composite,244.1,Cents per pound,ERS
+2024,September,9,Retail broiler composite,246.8,Cents per pound,ERS
+2024,October,10,Retail broiler composite,244.8,Cents per pound,ERS
+2024,November,11,Retail broiler composite,242.3,Cents per pound,ERS
+2024,December,12,Retail broiler composite,243.4,Cents per pound,ERS
+2025,January,1,Retail broiler composite,242.7,Cents per pound,ERS
+2025,February,2,Retail broiler composite,243.1,Cents per pound,ERS
+2025,March,3,Retail broiler composite,245.2,Cents per pound,ERS
+2025,April,4,Retail broiler composite,244.8,Cents per pound,ERS
+2025,May,5,Retail broiler composite,245.9,Cents per pound,ERS
+2025,June,6,Retail broiler composite,249.4,Cents per pound,ERS
+2025,July,7,Retail broiler composite,248.2,Cents per pound,ERS
+2025,August,8,Retail broiler composite,248.7,Cents per pound,ERS
+2025,September,9,Retail broiler composite,246.9,Cents per pound,ERS
+2025,October,10,Retail broiler composite,244.5,Cents per pound,ERS
+2025,November,11,Retail broiler composite,244.7,Cents per pound,ERS
+2025,December,12,Retail broiler composite,241.2,Cents per pound,ERS
+2026,January,1,Retail broiler composite,240.9,Cents per pound,ERS
+2026,February,2,Retail broiler composite,238.5,Cents per pound,ERS
+2026,March,3,Retail broiler composite,240.6,Cents per pound,ERS
+2026,April,4,Retail broiler composite,238.9,Cents per pound,ERS
+2026,May,5,Retail broiler composite,243.9,Cents per pound,ERS
+2026,June,6,Retail broiler composite,238.2,Cents per pound,ERS
+2026,July,7,Retail broiler composite,238.7,Cents per pound,ERS
+2026,August,8,Retail broiler composite,237,Cents per pound,ERS
+2024,August,8,Wholesale broiler composite,115.1,Cents per pound,ERS
+2024,September,9,Wholesale broiler composite,114,Cents per pound,ERS
+2024,October,10,Wholesale broiler composite,110.1,Cents per pound,ERS
+2024,November,11,Wholesale broiler composite,121.3,Cents per pound,ERS
+2024,December,12,Wholesale broiler composite,110.7,Cents per pound,ERS
+2025,January,1,Wholesale broiler composite,111,Cents per pound,ERS
+2025,February,2,Wholesale broiler composite,121.7,Cents per pound,ERS
+2025,March,3,Wholesale broiler composite,107.7,Cents per pound,ERS
+2025,April,4,Wholesale broiler composite,117,Cents per pound,ERS
+2025,May,5,Wholesale broiler composite,117,Cents per pound,ERS
+2025,June,6,Wholesale broiler composite,117.8,Cents per pound,ERS
+2025,July,7,Wholesale broiler composite,116.8,Cents per pound,ERS
+2025,August,8,Wholesale broiler composite,113.1,Cents per pound,ERS
+2025,September,9,Wholesale broiler composite,105.7,Cents per pound,ERS
+2025,October,10,Wholesale broiler composite,83.8,Cents per pound,ERS
+2025,November,11,Wholesale broiler composite,80.2,Cents per pound,ERS
+2025,December,12,Wholesale broiler composite,82.3,Cents per pound,ERS
+2026,January,1,Wholesale broiler composite,85.7,Cents per pound,ERS
+2026,February,2,Wholesale broiler composite,88.3,Cents per pound,ERS
+2026,March,3,Wholesale broiler composite,84.7,Cents per pound,ERS
+2026,April,4,Wholesale broiler composite,89.4,Cents per pound,ERS
+2026,May,5,Wholesale broiler composite,93.9,Cents per pound,ERS
+2026,June,6,Wholesale broiler composite,95,Cents per pound,ERS
+2026,July,7,Wholesale broiler composite,101.5,Cents per pound,ERS
+2026,August,8,Wholesale broiler composite,97.1,Cents per pound,ERS
+2024,August,8,Wholesale-retail broiler spread,129,Cents per pound,ERS
+2024,September,9,Wholesale-retail broiler spread,132.8,Cents per pound,ERS
+2024,October,10,Wholesale-retail broiler spread,134.7,Cents per pound,ERS
+2024,November,11,Wholesale-retail broiler spread,121,Cents per pound,ERS
+2024,December,12,Wholesale-retail broiler spread,132.7,Cents per pound,ERS
+2025,January,1,Wholesale-retail broiler spread,131.7,Cents per pound,ERS
+2025,February,2,Wholesale-retail broiler spread,121.4,Cents per pound,ERS
+2025,March,3,Wholesale-retail broiler spread,137.5,Cents per pound,ERS
+2025,April,4,Wholesale-retail broiler spread,127.8,Cents per pound,ERS
+2025,May,5,Wholesale-retail broiler spread,128.9,Cents per pound,ERS
+2025,June,6,Wholesale-retail broiler spread,131.6,Cents per pound,ERS
+2025,July,7,Wholesale-retail broiler spread,131.4,Cents per pound,ERS
+2025,August,8,Wholesale-retail broiler spread,135.6,Cents per pound,ERS
+2025,September,9,Wholesale-retail broiler spread,141.2,Cents per pound,ERS
+2025,October,10,Wholesale-retail broiler spread,160.7,Cents per pound,ERS
+2025,November,11,Wholesale-retail broiler spread,164.5,Cents per pound,ERS
+2025,December,12,Wholesale-retail broiler spread,158.9,Cents per pound,ERS
+2026,January,1,Wholesale-retail broiler spread,155.2,Cents per pound,ERS
+2026,February,2,Wholesale-retail broiler spread,150.2,Cents per pound,ERS
+2026,March,3,Wholesale-retail broiler spread,155.9,Cents per pound,ERS
+2026,April,4,Wholesale-retail broiler spread,149.5,Cents per pound,ERS
+2026,May,5,Wholesale-retail broiler spread,150,Cents per pound,ERS
+2026,June,6,Wholesale-retail broiler spread,143.2,Cents per pound,ERS
+2026,July,7,Wholesale-retail broiler spread,137.2,Cents per pound,ERS
+2026,August,8,Wholesale-retail broiler spread,139.9,Cents per pound,ERS
+2024,August,8,"Chicken, fresh whole retail price",1.988,Dollars per pound,BLS
+2024,September,9,"Chicken, fresh whole retail price",1.979,Dollars per pound,BLS
+2024,October,10,"Chicken, fresh whole retail price",1.987,Dollars per pound,BLS
+2024,November,11,"Chicken, fresh whole retail price",2.076,Dollars per pound,BLS
+2024,December,12,"Chicken, fresh whole retail price",2.061,Dollars per pound,BLS
+2025,January,1,"Chicken, fresh whole retail price",2.061,Dollars per pound,BLS
+2025,February,2,"Chicken, fresh whole retail price",2.051,Dollars per pound,BLS
+2025,March,3,"Chicken, fresh whole retail price",2.064,Dollars per pound,BLS
+2025,April,4,"Chicken, fresh whole retail price",2.059,Dollars per pound,BLS
+2025,May,5,"Chicken, fresh whole retail price",2.061,Dollars per pound,BLS
+2025,June,6,"Chicken, fresh whole retail price",2.086,Dollars per pound,BLS
+2025,July,7,"Chicken, fresh whole retail price",2.078,Dollars per pound,BLS
+2025,August,8,"Chicken, fresh whole retail price",2.076,Dollars per pound,BLS
+2025,September,9,"Chicken, fresh whole retail price",2.061,Dollars per pound,BLS
+2025,October,10,"Chicken, fresh whole retail price",NA,Dollars per pound,BLS
+2025,November,11,"Chicken, fresh whole retail price",2.044,Dollars per pound,BLS
+2025,December,12,"Chicken, fresh whole retail price",2.02,Dollars per pound,BLS
+2026,January,1,"Chicken, fresh whole retail price",2.041,Dollars per pound,BLS
+2026,February,2,"Chicken, fresh whole retail price",2.049,Dollars per pound,BLS
+2026,March,3,"Chicken, fresh whole retail price",2.033,Dollars per pound,BLS
+2026,April,4,"Chicken, fresh whole retail price",2.026,Dollars per pound,BLS
+2026,May,5,"Chicken, fresh whole retail price",2.036,Dollars per pound,BLS
+2026,June,6,"Chicken, fresh whole retail price",2.044,Dollars per pound,BLS
+2026,July,7,"Chicken, fresh whole retail price",2.005,Dollars per pound,BLS
+2026,August,8,"Chicken, fresh whole retail price",2.012,Dollars per pound,BLS
+2024,August,8,Chicken legs bone-in retail price,1.835,Dollars per pound,BLS
+2024,September,9,Chicken legs bone-in retail price,1.873,Dollars per pound,BLS
+2024,October,10,Chicken legs bone-in retail price,1.83,Dollars per pound,BLS
+2024,November,11,Chicken legs bone-in retail price,1.77,Dollars per pound,BLS
+2024,December,12,Chicken legs bone-in retail price,1.781,Dollars per pound,BLS
+2025,January,1,Chicken legs bone-in retail price,1.791,Dollars per pound,BLS
+2025,February,2,Chicken legs bone-in retail price,1.792,Dollars per pound,BLS
+2025,March,3,Chicken legs bone-in retail price,1.805,Dollars per pound,BLS
+2025,April,4,Chicken legs bone-in retail price,1.789,Dollars per pound,BLS
+2025,May,5,Chicken legs bone-in retail price,1.785,Dollars per pound,BLS
+2025,June,6,Chicken legs bone-in retail price,1.815,Dollars per pound,BLS
+2025,July,7,Chicken legs bone-in retail price,1.799,Dollars per pound,BLS
+2025,August,8,Chicken legs bone-in retail price,1.797,Dollars per pound,BLS
+2025,September,9,Chicken legs bone-in retail price,1.796,Dollars per pound,BLS
+2025,October,10,Chicken legs bone-in retail price,NA,Dollars per pound,BLS
+2025,November,11,Chicken legs bone-in retail price,1.795,Dollars per pound,BLS
+2025,December,12,Chicken legs bone-in retail price,1.725,Dollars per pound,BLS
+2026,January,1,Chicken legs bone-in retail price,1.735,Dollars per pound,BLS
+2026,February,2,Chicken legs bone-in retail price,1.707,Dollars per pound,BLS
+2026,March,3,Chicken legs bone-in retail price,1.739,Dollars per pound,BLS
+2026,April,4,Chicken legs bone-in retail price,1.712,Dollars per pound,BLS
+2026,May,5,Chicken legs bone-in retail price,1.786,Dollars per pound,BLS
+2026,June,6,Chicken legs bone-in retail price,1.688,Dollars per pound,BLS
+2026,July,7,Chicken legs bone-in retail price,1.723,Dollars per pound,BLS
+2026,August,8,Chicken legs bone-in retail price,1.67,Dollars per pound,BLS
+2024,August,8,Chicken boneless breast retail price,3.952,Dollars per pound,BLS
+2024,September,9,Chicken boneless breast retail price,3.974,Dollars per pound,BLS
+2024,October,10,Chicken boneless breast retail price,4.037,Dollars per pound,BLS
+2024,November,11,Chicken boneless breast retail price,4.011,Dollars per pound,BLS
+2024,December,12,Chicken boneless breast retail price,4.104,Dollars per pound,BLS
+2025,January,1,Chicken boneless breast retail price,3.969,Dollars per pound,BLS
+2025,February,2,Chicken boneless breast retail price,4.079,Dollars per pound,BLS
+2025,March,3,Chicken boneless breast retail price,4.16,Dollars per pound,BLS
+2025,April,4,Chicken boneless breast retail price,4.18,Dollars per pound,BLS
+2025,May,5,Chicken boneless breast retail price,4.216,Dollars per pound,BLS
+2025,June,6,Chicken boneless breast retail price,4.239,Dollars per pound,BLS
+2025,July,7,Chicken boneless breast retail price,4.204,Dollars per pound,BLS
+2025,August,8,Chicken boneless breast retail price,4.212,Dollars per pound,BLS
+2025,September,9,Chicken boneless breast retail price,4.172,Dollars per pound,BLS
+2025,October,10,Chicken boneless breast retail price,NA,Dollars per pound,BLS
+2025,November,11,Chicken boneless breast retail price,4.15,Dollars per pound,BLS
+2025,December,12,Chicken boneless breast retail price,4.153,Dollars per pound,BLS
+2026,January,1,Chicken boneless breast retail price,4.165,Dollars per pound,BLS
+2026,February,2,Chicken boneless breast retail price,4.142,Dollars per pound,BLS
+2026,March,3,Chicken boneless breast retail price,4.172,Dollars per pound,BLS
+2026,April,4,Chicken boneless breast retail price,4.168,Dollars per pound,BLS
+2026,May,5,Chicken boneless breast retail price,4.171,Dollars per pound,BLS
+2026,June,6,Chicken boneless breast retail price,4.181,Dollars per pound,BLS
+2026,July,7,Chicken boneless breast retail price,4.153,Dollars per pound,BLS
+2026,August,8,Chicken boneless breast retail price,4.173,Dollars per pound,BLS
+2024,August,8,"Eggs, Grade A large retail price",3.204,Dollars per dozen,BLS
+2024,September,9,"Eggs, Grade A large retail price",3.821,Dollars per dozen,BLS
+2024,October,10,"Eggs, Grade A large retail price",3.37,Dollars per dozen,BLS
+2024,November,11,"Eggs, Grade A large retail price",3.649,Dollars per dozen,BLS
+2024,December,12,"Eggs, Grade A large retail price",4.146,Dollars per dozen,BLS
+2025,January,1,"Eggs, Grade A large retail price",4.953,Dollars per dozen,BLS
+2025,February,2,"Eggs, Grade A large retail price",5.897,Dollars per dozen,BLS
+2025,March,3,"Eggs, Grade A large retail price",6.227,Dollars per dozen,BLS
+2025,April,4,"Eggs, Grade A large retail price",5.122,Dollars per dozen,BLS
+2025,May,5,"Eggs, Grade A large retail price",4.548,Dollars per dozen,BLS
+2025,June,6,"Eggs, Grade A large retail price",3.775,Dollars per dozen,BLS
+2025,July,7,"Eggs, Grade A large retail price",3.599,Dollars per dozen,BLS
+2025,August,8,"Eggs, Grade A large retail price",3.587,Dollars per dozen,BLS
+2025,September,9,"Eggs, Grade A large retail price",3.488,Dollars per dozen,BLS
+2025,October,10,"Eggs, Grade A large retail price",NA,Dollars per dozen,BLS
+2025,November,11,"Eggs, Grade A large retail price",2.86,Dollars per dozen,BLS
+2025,December,12,"Eggs, Grade A large retail price",2.712,Dollars per dozen,BLS
+2026,January,1,"Eggs, Grade A large retail price",2.577,Dollars per dozen,BLS
+2026,February,2,"Eggs, Grade A large retail price",2.5,Dollars per dozen,BLS
+2026,March,3,"Eggs, Grade A large retail price",2.348,Dollars per dozen,BLS
+2026,April,4,"Eggs, Grade A large retail price",2.25,Dollars per dozen,BLS
+2026,May,5,"Eggs, Grade A large retail price",2.191,Dollars per dozen,BLS
+2026,June,6,"Eggs, Grade A large retail price",2.141,Dollars per dozen,BLS
+2026,July,7,"Eggs, Grade A large retail price",2.189,Dollars per dozen,BLS
+2026,August,8,"Eggs, Grade A large retail price",2.272,Dollars per dozen,BLS
+2024,August,8,"Eggs, Grade A large wholesale price",3.802,Dollars per dozen,AMS
+2024,September,9,"Eggs, Grade A large wholesale price",3.467,Dollars per dozen,AMS
+2024,October,10,"Eggs, Grade A large wholesale price",2.723,Dollars per dozen,AMS
+2024,November,11,"Eggs, Grade A large wholesale price",4.264,Dollars per dozen,AMS
+2024,December,12,"Eggs, Grade A large wholesale price",4.486,Dollars per dozen,AMS
+2025,January,1,"Eggs, Grade A large wholesale price",6.412,Dollars per dozen,AMS
+2025,February,2,"Eggs, Grade A large wholesale price",8.222,Dollars per dozen,AMS
+2025,March,3,"Eggs, Grade A large wholesale price",5.127,Dollars per dozen,AMS
+2025,April,4,"Eggs, Grade A large wholesale price",3.697,Dollars per dozen,AMS
+2025,May,5,"Eggs, Grade A large wholesale price",3.452,Dollars per dozen,AMS
+2025,June,6,"Eggs, Grade A large wholesale price",3.014,Dollars per dozen,AMS
+2025,July,7,"Eggs, Grade A large wholesale price",3.385,Dollars per dozen,AMS
+2025,August,8,"Eggs, Grade A large wholesale price",2.664,Dollars per dozen,AMS
+2025,September,9,"Eggs, Grade A large wholesale price",2.312,Dollars per dozen,AMS
+2025,October,10,"Eggs, Grade A large wholesale price",1.707,Dollars per dozen,AMS
+2025,November,11,"Eggs, Grade A large wholesale price",2.359,Dollars per dozen,AMS
+2025,December,12,"Eggs, Grade A large wholesale price",1.588,Dollars per dozen,AMS
+2026,January,1,"Eggs, Grade A large wholesale price",0.943,Dollars per dozen,AMS
+2026,February,2,"Eggs, Grade A large wholesale price",1.117,Dollars per dozen,AMS
+2026,March,3,"Eggs, Grade A large wholesale price",1.554,Dollars per dozen,AMS
+2026,April,4,"Eggs, Grade A large wholesale price",0.633,Dollars per dozen,AMS
+2026,May,5,"Eggs, Grade A large wholesale price",0.607,Dollars per dozen,AMS
+2026,June,6,"Eggs, Grade A large wholesale price",0.564,Dollars per dozen,AMS
+2026,July,7,"Eggs, Grade A large wholesale price",1.006,Dollars per dozen,AMS
+2026,August,8,"Eggs, Grade A large wholesale price",0.998,Dollars per dozen,AMS
+2024,August,8,"Eggs, Grade A, large, retail minus wholesale price",-0.598,Dollars per dozen,ERS
+2024,September,9,"Eggs, Grade A, large, retail minus wholesale price",0.354,Dollars per dozen,ERS
+2024,October,10,"Eggs, Grade A, large, retail minus wholesale price",0.647,Dollars per dozen,ERS
+2024,November,11,"Eggs, Grade A, large, retail minus wholesale price",-0.615,Dollars per dozen,ERS
+2024,December,12,"Eggs, Grade A, large, retail minus wholesale price",-0.34,Dollars per dozen,ERS
+2025,January,1,"Eggs, Grade A, large, retail minus wholesale price",-1.459,Dollars per dozen,ERS
+2025,February,2,"Eggs, Grade A, large, retail minus wholesale price",-2.325,Dollars per dozen,ERS
+2025,March,3,"Eggs, Grade A, large, retail minus wholesale price",1.1,Dollars per dozen,ERS
+2025,April,4,"Eggs, Grade A, large, retail minus wholesale price",1.425,Dollars per dozen,ERS
+2025,May,5,"Eggs, Grade A, large, retail minus wholesale price",1.096,Dollars per dozen,ERS
+2025,June,6,"Eggs, Grade A, large, retail minus wholesale price",0.761,Dollars per dozen,ERS
+2025,July,7,"Eggs, Grade A, large, retail minus wholesale price",0.214,Dollars per dozen,ERS
+2025,August,8,"Eggs, Grade A, large, retail minus wholesale price",0.923,Dollars per dozen,ERS
+2025,September,9,"Eggs, Grade A, large, retail minus wholesale price",1.176,Dollars per dozen,ERS
+2025,October,10,"Eggs, Grade A, large, retail minus wholesale price",NA,Dollars per dozen,ERS
+2025,November,11,"Eggs, Grade A, large, retail minus wholesale price",0.501,Dollars per dozen,ERS
+2025,December,12,"Eggs, Grade A, large, retail minus wholesale price",1.124,Dollars per dozen,ERS
+2026,January,1,"Eggs, Grade A, large, retail minus wholesale price",1.634,Dollars per dozen,ERS
+2026,February,2,"Eggs, Grade A, large, retail minus wholesale price",1.383,Dollars per dozen,ERS
+2026,March,3,"Eggs, Grade A, large, retail minus wholesale price",0.794,Dollars per dozen,ERS
+2026,April,4,"Eggs, Grade A, large, retail minus wholesale price",1.617,Dollars per dozen,ERS
+2026,May,5,"Eggs, Grade A, large, retail minus wholesale price",1.584,Dollars per dozen,ERS
+2026,June,6,"Eggs, Grade A, large, retail minus wholesale price",1.577,Dollars per dozen,ERS
+2026,July,7,"Eggs, Grade A, large, retail minus wholesale price",1.183,Dollars per dozen,ERS
+2026,August,8,"Eggs, Grade A, large, retail minus wholesale price",1.274,Dollars per dozen,ERS
+2024,August,8,"Milk, fresh, whole, fortified-gallon retail price",4.044,Dollars per gallon,BLS
+2024,September,9,"Milk, fresh, whole, fortified-gallon retail price",4.021,Dollars per gallon,BLS
+2024,October,10,"Milk, fresh, whole, fortified-gallon retail price",4.041,Dollars per gallon,BLS
+2024,November,11,"Milk, fresh, whole, fortified-gallon retail price",4.138,Dollars per gallon,BLS
+2024,December,12,"Milk, fresh, whole, fortified-gallon retail price",4.101,Dollars per gallon,BLS
+2025,January,1,"Milk, fresh, whole, fortified-gallon retail price",4.025,Dollars per gallon,BLS
+2025,February,2,"Milk, fresh, whole, fortified-gallon retail price",4.026,Dollars per gallon,BLS
+2025,March,3,"Milk, fresh, whole, fortified-gallon retail price",4.05,Dollars per gallon,BLS
+2025,April,4,"Milk, fresh, whole, fortified-gallon retail price",4.074,Dollars per gallon,BLS
+2025,May,5,"Milk, fresh, whole, fortified-gallon retail price",4.022,Dollars per gallon,BLS
+2025,June,6,"Milk, fresh, whole, fortified-gallon retail price",4.029,Dollars per gallon,BLS
+2025,July,7,"Milk, fresh, whole, fortified-gallon retail price",4.162,Dollars per gallon,BLS
+2025,August,8,"Milk, fresh, whole, fortified-gallon retail price",4.171,Dollars per gallon,BLS
+2025,September,9,"Milk, fresh, whole, fortified-gallon retail price",4.129,Dollars per gallon,BLS
+2025,October,10,"Milk, fresh, whole, fortified-gallon retail price",NA,Dollars per gallon,BLS
+2025,November,11,"Milk, fresh, whole, fortified-gallon retail price",3.997,Dollars per gallon,BLS
+2025,December,12,"Milk, fresh, whole, fortified-gallon retail price",4.047,Dollars per gallon,BLS
+2026,January,1,"Milk, fresh, whole, fortified-gallon retail price",4.1,Dollars per gallon,BLS
+2026,February,2,"Milk, fresh, whole, fortified-gallon retail price",4.026,Dollars per gallon,BLS
+2026,March,3,"Milk, fresh, whole, fortified-gallon retail price",4.067,Dollars per gallon,BLS
+2026,April,4,"Milk, fresh, whole, fortified-gallon retail price",4.136,Dollars per gallon,BLS
+2026,May,5,"Milk, fresh, whole, fortified-gallon retail price",4.217,Dollars per gallon,BLS
+2026,June,6,"Milk, fresh, whole, fortified-gallon retail price",4.317,Dollars per gallon,BLS
+2026,July,7,"Milk, fresh, whole, fortified-gallon retail price",4.313,Dollars per gallon,BLS
+2026,August,8,"Milk, fresh, whole, fortified-gallon retail price",4.229,Dollars per gallon,BLS
+2024,August,8,American processed cheese retail price,4.841,Dollars per pound,BLS
+2024,September,9,American processed cheese retail price,4.951,Dollars per pound,BLS
+2024,October,10,American processed cheese retail price,5.059,Dollars per pound,BLS
+2024,November,11,American processed cheese retail price,4.941,Dollars per pound,BLS
+2024,December,12,American processed cheese retail price,4.983,Dollars per pound,BLS
+2025,January,1,American processed cheese retail price,5.058,Dollars per pound,BLS
+2025,February,2,American processed cheese retail price,5.026,Dollars per pound,BLS
+2025,March,3,American processed cheese retail price,4.946,Dollars per pound,BLS
+2025,April,4,American processed cheese retail price,4.987,Dollars per pound,BLS
+2025,May,5,American processed cheese retail price,5.063,Dollars per pound,BLS
+2025,June,6,American processed cheese retail price,5.038,Dollars per pound,BLS
+2025,July,7,American processed cheese retail price,4.906,Dollars per pound,BLS
+2025,August,8,American processed cheese retail price,5.008,Dollars per pound,BLS
+2025,September,9,American processed cheese retail price,4.925,Dollars per pound,BLS
+2025,October,10,American processed cheese retail price,NA,Dollars per pound,BLS
+2025,November,11,American processed cheese retail price,4.725,Dollars per pound,BLS
+2025,December,12,American processed cheese retail price,4.734,Dollars per pound,BLS
+2026,January,1,American processed cheese retail price,4.845,Dollars per pound,BLS
+2026,February,2,American processed cheese retail price,4.68,Dollars per pound,BLS
+2026,March,3,American processed cheese retail price,4.783,Dollars per pound,BLS
+2026,April,4,American processed cheese retail price,4.69,Dollars per pound,BLS
+2026,May,5,American processed cheese retail price,4.572,Dollars per pound,BLS
+2026,June,6,American processed cheese retail price,4.626,Dollars per pound,BLS
+2026,July,7,American processed cheese retail price,4.746,Dollars per pound,BLS
+2026,August,8,American processed cheese retail price,4.747,Dollars per pound,BLS
+2024,August,8,"Cheddar cheese, natural retail price",5.763,Dollars per pound,BLS
+2024,September,9,"Cheddar cheese, natural retail price",5.731,Dollars per pound,BLS
+2024,October,10,"Cheddar cheese, natural retail price",5.844,Dollars per pound,BLS
+2024,November,11,"Cheddar cheese, natural retail price",5.676,Dollars per pound,BLS
+2024,December,12,"Cheddar cheese, natural retail price",5.621,Dollars per pound,BLS
+2025,January,1,"Cheddar cheese, natural retail price",5.698,Dollars per pound,BLS
+2025,February,2,"Cheddar cheese, natural retail price",5.536,Dollars per pound,BLS
+2025,March,3,"Cheddar cheese, natural retail price",5.737,Dollars per pound,BLS
+2025,April,4,"Cheddar cheese, natural retail price",5.743,Dollars per pound,BLS
+2025,May,5,"Cheddar cheese, natural retail price",5.908,Dollars per pound,BLS
+2025,June,6,"Cheddar cheese, natural retail price",5.999,Dollars per pound,BLS
+2025,July,7,"Cheddar cheese, natural retail price",6.041,Dollars per pound,BLS
+2025,August,8,"Cheddar cheese, natural retail price",6.123,Dollars per pound,BLS
+2025,September,9,"Cheddar cheese, natural retail price",6.049,Dollars per pound,BLS
+2025,October,10,"Cheddar cheese, natural retail price",NA,Dollars per pound,BLS
+2025,November,11,"Cheddar cheese, natural retail price",5.636,Dollars per pound,BLS
+2025,December,12,"Cheddar cheese, natural retail price",5.789,Dollars per pound,BLS
+2026,January,1,"Cheddar cheese, natural retail price",5.982,Dollars per pound,BLS
+2026,February,2,"Cheddar cheese, natural retail price",5.987,Dollars per pound,BLS
+2026,March,3,"Cheddar cheese, natural retail price",5.97,Dollars per pound,BLS
+2026,April,4,"Cheddar cheese, natural retail price",6.029,Dollars per pound,BLS
+2026,May,5,"Cheddar cheese, natural retail price",5.685,Dollars per pound,BLS
+2026,June,6,"Cheddar cheese, natural retail price",5.96,Dollars per pound,BLS
+2026,July,7,"Cheddar cheese, natural retail price",5.741,Dollars per pound,BLS
+2026,August,8,"Cheddar cheese, natural retail price",5.983,Dollars per pound,BLS
+2024,August,8,"Ice cream, prepackaged  retail price",6.357,Dollars per half gallon,BLS
+2024,September,9,"Ice cream, prepackaged  retail price",6.338,Dollars per half gallon,BLS
+2024,October,10,"Ice cream, prepackaged  retail price",6.295,Dollars per half gallon,BLS
+2024,November,11,"Ice cream, prepackaged  retail price",6.447,Dollars per half gallon,BLS
+2024,December,12,"Ice cream, prepackaged  retail price",6.27,Dollars per half gallon,BLS
+2025,January,1,"Ice cream, prepackaged  retail price",6.459,Dollars per half gallon,BLS
+2025,February,2,"Ice cream, prepackaged  retail price",6.255,Dollars per half gallon,BLS
+2025,March,3,"Ice cream, prepackaged  retail price",6.328,Dollars per half gallon,BLS
+2025,April,4,"Ice cream, prepackaged  retail price",6.229,Dollars per half gallon,BLS
+2025,May,5,"Ice cream, prepackaged  retail price",6.466,Dollars per half gallon,BLS
+2025,June,6,"Ice cream, prepackaged  retail price",6.493,Dollars per half gallon,BLS
+2025,July,7,"Ice cream, prepackaged  retail price",6.374,Dollars per half gallon,BLS
+2025,August,8,"Ice cream, prepackaged  retail price",6.505,Dollars per half gallon,BLS
+2025,September,9,"Ice cream, prepackaged  retail price",6.396,Dollars per half gallon,BLS
+2025,October,10,"Ice cream, prepackaged  retail price",NA,Dollars per half gallon,BLS
+2025,November,11,"Ice cream, prepackaged  retail price",6.138,Dollars per half gallon,BLS
+2025,December,12,"Ice cream, prepackaged  retail price",6.403,Dollars per half gallon,BLS
+2026,January,1,"Ice cream, prepackaged  retail price",6.236,Dollars per half gallon,BLS
+2026,February,2,"Ice cream, prepackaged  retail price",6.264,Dollars per half gallon,BLS
+2026,March,3,"Ice cream, prepackaged  retail price",6.191,Dollars per half gallon,BLS
+2026,April,4,"Ice cream, prepackaged  retail price",6.24,Dollars per half gallon,BLS
+2026,May,5,"Ice cream, prepackaged  retail price",6.045,Dollars per half gallon,BLS
+2026,June,6,"Ice cream, prepackaged  retail price",5.953,Dollars per half gallon,BLS
+2026,July,7,"Ice cream, prepackaged  retail price",5.836,Dollars per half gallon,BLS
+2026,August,8,"Ice cream, prepackaged  retail price",5.854,Dollars per half gallon,BLS
