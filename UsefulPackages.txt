@@ -2,6 +2,7 @@
 numpy
 scipy
 pandas
+polars
 matplotlib
 jupyter
 statsmodels
@@ -15,14 +16,6 @@ https://pythonframeworks.com/
 
 # statistics
 pingouin: https://pingouin-stats.org/index.html
-
-# pandas related
-pandas-profiling: https://github.com/ydataai/ydata-profiling
-sidetable: https://github.com/chris1610/sidetable
-https://github.com/SauceCat/pydqc
-Faster pandas apply: https://github.com/jmcarpenter2/swifter
-framequery: https://github.com/chmp/framequery
-DTale: Pandas dataframe viewer: https://github.com/man-group/dtale/blob/master/README.md
 
 # Exploratory Data Analysis
 sweetviz: https://github.com/fbdesignpro/sweetviz
@@ -73,16 +66,8 @@ lifelines: survival analysis: https://github.com/CamDavidsonPilon/lifelines
 convoys: https://better.engineering/convoys/
 
 # "Large Data" libraries
-dask
-dask-sql: https://github.com/nils-braun/dask-sql
-dask-profiling
-vaex: https://github.com/maartenbreddels/vaex
-Pandas on Ray: https://github.com/modin-project/modin
 pyarrow
 fastparquet
-dampr: https://github.com/Refefer/Dampr
-datatable: https://github.com/h2oai/datatable (Windows not supported yet)
-fugue-project: https://github.com/fugue-project/fugue
 polars: https://github.com/pola-rs/polars
 ibis: http://ibis-project.org/
 daft: https://github.com/Eventual-Inc/Daft
@@ -122,13 +107,17 @@ pyecharts: https://github.com/pyecharts/pyecharts (in Chinese)
 hiplot (parallel coordinates plot): https://github.com/facebookresearch/hiplot
 fastplotlib: https://github.com/fastplotlib/fastplotlib
 
-# geo visualization libraries:
+# geo visualization libraries (NOTE: For Windows, see geospatial-wheels below)
 folium: https://github.com/python-visualization/folium
 leafmap: https://github.com/giswqs/leafmap
 geoplot: https://github.com/ResidentMario/geoplot
 ipyleaflet: https://github.com/jupyter-widgets/ipyleaflet/
 movingpandas: https://github.com/anitagraser/movingpandas
 keplergl: keplergl (PITA to install onto Windows): https://github.com/keplergl/kepler.gl/issues/557
+GeoLibre: https://github.com/opengeos/GeoLibre
+
+# Unofficial Python Wheels for Geospatial
+https://github.com/cgohlke/geospatial-wheels/
 
 # Animation related
 celluloid: https://github.com/jwkvam/celluloid
@@ -148,7 +137,7 @@ streamlit: https://github.com/streamlit/streamlit
 idom: https://github.com/idom-team/idom
 pywebio: https://github.com/wang0618/PyWebIO
 gradio: https://github.com/gradio-app/gradio
-pinecone: https://github.com/pynecone-io/pynecone
+pynecone: https://github.com/pynecone-io/pynecone
 datapane: https://github.com/datapane/datapane
 solara: https://github.com/widgetti/solara
 
@@ -174,8 +163,9 @@ From .py to html: https://github.com/danijar/handout
 Jupyter "books": https://github.com/jupyter/jupyter-book
 hover tool tips: https://github.com/krassowski/jupyterlab-lsp
 real-time plots in jupyter: https://lvwerra.github.io/jupyterplot/
-Notebook publishing with quarto: https://github.com/quarto-dev/quarto-cli
 jpterm: https://github.com/davidbrochart/jpterm
+quarto: https://github.com/quarto-dev/quarto-cli
+
 
 # database related
 pyodbc
@@ -192,6 +182,7 @@ ibm_db_sa
 jinjasql: https://github.com/hashedin/jinjasql
 duckdb: columnar version of sqlite: https://github.com/cwida/duckdb
 harlequin: https://harlequin.sh/
+snowflake: https://github.com/snowflakedb/snowflake-connector-python
 
 # ETL or data engineering related
 Pipe: https://github.com/JulienPalard/Pipe
@@ -225,6 +216,7 @@ databay: https://github.com/Voyz/databay
 pydags: https://github.com/DavidTorpey/pydags
 fluke: https://github.com/manoss96/fluke
 sqlmesh: https://github.com/TobikoData/sqlmesh
+Schedium: https://github.com/MarcBresson/schedium
 
 # Data validation and cleaning frameworks
 great_expectations: https://github.com/great-expectations/great_expectations
@@ -237,7 +229,6 @@ engarde: https://github.com/TomAugspurger/engarde
 msgspec: https://github.com/jcrist/msgspec
 python-deequ: https://github.com/awslabs/python-deequ
 DataProfiler: https://github.com/capitalone/DataProfiler
-Schedium: https://github.com/MarcBresson/schedium
 
 # R related
 rpy2
@@ -269,9 +260,10 @@ beautifulsoup4
 lxml+XPath
 mechanicalsoup
 selenium
+playwright: https://github.com/microsoft/playwright-python
 scrapy (OOP framework)
 newspaper3k: https://newspaper.readthedocs.io  # easily extract text from articles
-HTTPX: https://github.com/encode/httpx
+httpx: https://github.com/encode/httpx
 autoscraper: https://github.com/alirezamika/autoscraper
 
 # Big Data
@@ -279,9 +271,6 @@ boto3: Interface to S3
 PyHive: https://github.com/dropbox/PyHive
 Amazon S3 with SQL syntax: PyAthena - use plain 'ol SQL: https://github.com/laughingman7743/PyAthena
 PySpark: https://jacobcelestine.com/knowledge_repo/colab_and_pyspark/
-Dask/Coiled
-Dask-SQL: https://github.com/nils-braun/dask-sql
-fugue-project: https://github.com/fugue-project/fugue
 
 # CLI
 click - for making CLI
@@ -318,16 +307,8 @@ xlrt
 ptpython
 bpython
 
-# debugging
-# https://stribny.name/blog/2019/06/debugging-python-programs
-# https://github.com/stribny/python-debugging
-ipdb: https://github.com/gotcha/ipdb
-pudb: https://github.com/inducer/pudb  (windows not supported)
-pysnooper: https://github.com/cool-RR/pysnooper  (debugging with decorators!)
-snoop built on top of pysnooper: https://github.com/alexmojaki/snoop
-pydebug: https://github.com/benmezger/pydebug
-
 # web frameworks
+bottle: https://bottlepy.org/docs/dev/
 assembly: https://github.com/mardix/assembly (OOP-based)
 sanic: https://github.com/huge-success/sanic
 starlette: https://github.com/encode/starlette
@@ -335,9 +316,6 @@ fastapi: https://github.com/tiangolo/fastapi
 responder: https://github.com/taoufik07/responder
 masonite: https://github.com/MasoniteFramework/masonite
 molten: https://github.com/Bogdanp/molten
-
-# logging
-https://github.com/Delgan/loguru
 
 # Testing Code
 pytest: https://github.com/pytest-dev/pytest
@@ -393,9 +371,22 @@ biotite: https://github.com/biotite-dev/biotite
 https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2367-z
 phylopandas: https://github.com/Zsailer/phylopandas
 
-# Misc.
+# Logging or Debugging
+# https://stribny.name/blog/2019/06/debugging-python-programs
+# https://github.com/stribny/python-debugging
+ipdb: https://github.com/gotcha/ipdb
+pudb: https://github.com/inducer/pudb  (windows not supported)
+pysnooper: https://github.com/cool-RR/pysnooper  (debugging with decorators!)
+snoop built on top of pysnooper: https://github.com/alexmojaki/snoop
+pydebug: https://github.com/benmezger/pydebug
+loguru: https://github.com/Delgan/loguru
+icecream: https://github.com/gruns/icecream
+
+# Working with dates
 pendulum: a better datetime library, better than arrow
 whenever: a library that actually handles daylight savings time change: https://github.com/ariebovenberg/whenever
+
+# Misc.
 schedule: job scheduling for humans:https://github.com/dbader/schedule
 desktop automation: pyautogui: https://github.com/asweigart/pyautogui
 desktop automation: https://github.com/andohuman/pyKey
