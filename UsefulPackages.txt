@@ -1,12 +1,15 @@
-# "Base" PyData stack
+# My "Base" PyData stack
 numpy
 scipy
-pandas
+pandas (especially if I need geopandas or work with location data frameworks)
 polars
 matplotlib
 jupyter
 statsmodels
-scikit-learn
+loguru
+ruff
+icecream
+python-dotenv
 
 # Drop-in replacement for pip
 uv: https://github.com/astral-sh/uv
@@ -42,7 +45,7 @@ pyheat: https://github.com/csurfer/pyheat
 heartrate: https://github.com/alexmojaki/heartrate
 pyinstrument: https://github.com/joerick/pyinstrument
 https://www.markkeller.dev/2018-07-14-optimize_python/
-scalene: https://github.com/emeryberger/scalene (Windows not support or requires WSL)
+scalene: https://github.com/emeryberger/scalene (Windows not supported or requires WSL)
 
 # Environment variables management
 python-dotenv: https://github.com/theskumar/python-dotenv
