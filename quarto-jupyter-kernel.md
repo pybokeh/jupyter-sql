@@ -1,3 +1,5 @@
+SOURCE: https://quarto.org/docs/computations/python.html#kernel-selection
+
 # Using Quarto with a Specific Jupyter Kernel
 
 There are a few ways to tell Quarto which Jupyter kernel to use, depending on whether you want to set it per document, per project, or per run.
