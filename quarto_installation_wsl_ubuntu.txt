@@ -6,3 +6,6 @@ https://quarto.org/docs/reference/formats/html.html
 
 # Choosing the jupyter kernel
 https://quarto.org/docs/computations/python.html#kernel-selection
+
+# When using virtual environment, install the following:
+python -m pip install pyyaml jupyter nbformat nbclient
