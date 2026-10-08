@@ -3,3 +3,6 @@ https://quarto.org/docs/download/tarball.html
 
 # HTML format options
 https://quarto.org/docs/reference/formats/html.html
+
+# Choosing the jupyter kernel
+https://quarto.org/docs/computations/python.html#kernel-selection
