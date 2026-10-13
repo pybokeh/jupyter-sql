@@ -10,6 +10,7 @@ loguru
 ruff
 icecream
 python-dotenv
+pyarrow
 
 # Drop-in replacement for pip
 uv: https://github.com/astral-sh/uv
@@ -220,6 +221,7 @@ pydags: https://github.com/DavidTorpey/pydags
 fluke: https://github.com/manoss96/fluke
 sqlmesh: https://github.com/TobikoData/sqlmesh
 Schedium: https://github.com/MarcBresson/schedium
+pydoit: https://github.com/pydoit/doit
 
 # Data validation and cleaning frameworks
 great_expectations: https://github.com/great-expectations/great_expectations
