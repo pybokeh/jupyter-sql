@@ -2,6 +2,7 @@
 numpy
 scipy
 pandas (especially if I need geopandas or work with location data frameworks)
+pyarrow
 polars
 matplotlib
 jupyter
@@ -10,7 +11,6 @@ loguru
 ruff
 icecream
 python-dotenv
-pyarrow
 
 # Drop-in replacement for pip
 uv: https://github.com/astral-sh/uv
@@ -20,22 +20,8 @@ https://pythonframeworks.com/
 
 # statistics
 pingouin: https://pingouin-stats.org/index.html
-
-# Exploratory Data Analysis
-sweetviz: https://github.com/fbdesignpro/sweetviz
-dataprep: https://github.com/sfu-db/dataprep
-sidetable: https://github.com/chris1610/sidetable
-dataprofiler: https://github.com/capitalone/DataProfiler
-skimpy: https://github.com/aeturrell/skimpy
-
-# Data profiling
-ydata (formerly pandas-profiling): https://github.com/ydataai/ydata-profiling
-https://github.com/darenasc/auto-eda
-https://github.com/awslabs/python-deequ
-https://github.com/capitalone/DataProfiler
-
-# Data Metadata / Discovery Frameworks
-amundsen: https://github.com/amundsen-io/amundsen
+scipy
+statsmodels
 
 # CPU or Memory Profiling
 memory_profiler: https://github.com/pythonprofilers/memory_profiler
@@ -189,9 +175,6 @@ harlequin: https://harlequin.sh/
 snowflake: https://github.com/snowflakedb/snowflake-connector-python
 
 # ETL or data engineering related
-Pipe: https://github.com/JulienPalard/Pipe
-mpipe: https://vmlaker.github.io/mpipe/
-pdpipe: https://github.com/shaypal5/pdpipe
 papermill + scrapbook: https://github.com/nteract/papermill (parameterized notebooks)
 nteract-scapbook: https://github.com/nteract/scrapbook (for passing data between notebooks)
 For using papermill in JupyerLab go to: Notebook Tools -> Advanced Tools -> Cell Metadata:
@@ -212,7 +195,6 @@ prefect: https://docs.prefect.io ("core" is Windows supported)
 dagster: https://github.com/dagster-io/dagster  (Windows supported)
 pypeln: https://github.com/cgarciae/pypeln/
 magrittr-style piping: https://github.com/df-foundation/pipey
-Using pipe (|) operator: https://github.com/JulienPalard/Pipe
 mpypl: https://github.com/shwars/mPyPl (a functional approach to data pipelines)
 Netflix's metaflow: https://github.com/Netflix/metaflow (Windows not supported)
 ploomber: https://github.com/ploomber/ploomber (Windows supported)
@@ -220,20 +202,14 @@ databay: https://github.com/Voyz/databay
 pydags: https://github.com/DavidTorpey/pydags
 fluke: https://github.com/manoss96/fluke
 sqlmesh: https://github.com/TobikoData/sqlmesh
-Schedium: https://github.com/MarcBresson/schedium
 pydoit: https://github.com/pydoit/doit
 
-# Data validation and cleaning frameworks
-great_expectations: https://github.com/great-expectations/great_expectations
-cerberus: https://github.com/pyeve/cerberus
-pandera: https://github.com/cosmicBboy/pandera
-pyjanitor: https://pyjanitor.readthedocs.io/
-schema: https://github.com/keleshev/schema
-PandasSchema: https://github.com/TMiguelT/PandasSchema
-engarde: https://github.com/TomAugspurger/engarde
-msgspec: https://github.com/jcrist/msgspec
-python-deequ: https://github.com/awslabs/python-deequ
-DataProfiler: https://github.com/capitalone/DataProfiler
+# Scheduling tasks
+Schedium: https://github.com/MarcBresson/schedium
+schedule: job scheduling for humans:https://github.com/dbader/schedule
+
+# Data validation
+Pydantic
 
 # R related
 rpy2
@@ -314,19 +290,17 @@ bpython
 
 # web frameworks
 bottle: https://bottlepy.org/docs/dev/
-assembly: https://github.com/mardix/assembly (OOP-based)
-sanic: https://github.com/huge-success/sanic
-starlette: https://github.com/encode/starlette
+flask: https://github.com/pallets/flask
 fastapi: https://github.com/tiangolo/fastapi
-responder: https://github.com/taoufik07/responder
-masonite: https://github.com/MasoniteFramework/masonite
-molten: https://github.com/Bogdanp/molten
 
-# Testing Code
+# Testing Code / Type Checking
 pytest: https://github.com/pytest-dev/pytest
 ward: https://wardpy.com/
+ty: https://github.com/astral-sh/ty
+pyrefly: https://github.com/facebook/pyrefly
 
-# Windows Related
+# Desktop Notifications
+plyer: https://github.com/kivy/plyer
 Sending Windows 10 notifications: https://github.com/jithurjacob/Windows-10-Toast-Notifications
 Another Windows notification library: https://github.com/malja/zroya
 
@@ -347,19 +321,6 @@ For CPU bound: Use multiprocessing
 An easier multiprocessing library?: https://github.com/Slimmer-AI/mpire
 Trio, a better asyncio?:  https://github.com/python-trio/trio
 many_requests: https://github.com/joshlk/many_requests
-
-# Task Queues (almost all don't support Windows), only Dramatiq works with Windows
-https://www.fullstackpython.com/task-queues.html
-dramatiq: https://github.com/Bogdanp/dramatiq
-
-# Message Brokers (most don't support Windows or require WSL/WSL2)
-RabbitMQ
-Redis, workaround for installing on Windows 10 wihout WSL: https://divyanshushekhar.com/how-to-install-redis-on-windows-10/
-New GitHub repo for Redis for Windows: https://github.com/tporadowski/redis
-ZeroMQ
-
-# Stream processing
-faust: https://github.com/robinhood/faust (Windows supported)
 
 # Interesting GitHub repos
 ML: https://github.com/firmai/industry-machine-learning
@@ -391,16 +352,6 @@ icecream: https://github.com/gruns/icecream
 pendulum: a better datetime library, better than arrow
 whenever: a library that actually handles daylight savings time change: https://github.com/ariebovenberg/whenever
 
-# Misc.
-schedule: job scheduling for humans:https://github.com/dbader/schedule
-desktop automation: pyautogui: https://github.com/asweigart/pyautogui
-desktop automation: https://github.com/andohuman/pyKey
-code formatter: https://github.com/astral-sh/ruff
-inspect live objects: https://docs.python.org/3/library/inspect.html
-py files to reveal slides: https://github.com/apiad/auditorium
-slides in terminal: https://github.com/vinayak-mehta/present
-tables: https://posit-dev.github.io/great-tables/articles/intro.html
-
 # Linux / CLI Utilities
 https://github.com/tldr-pages/tldr-python-client # replacement for man pages
 bropages (http://bropages.org/): sudo apt-get install ruby-dev, sudo gem install bropages
@@ -412,3 +363,12 @@ https://github.com/kovacsbalu/WazeRouteCalculator
 # Weibull failure forecasting
 reliability: https://reliability.readthedocs.io/en/latest/
 lifelines: https://lifelines.readthedocs.io/en/latest/index.html
+
+# Misc.
+desktop automation: pyautogui: https://github.com/asweigart/pyautogui
+desktop automation: https://github.com/andohuman/pyKey
+code formatter: https://github.com/astral-sh/ruff
+inspect live objects: https://docs.python.org/3/library/inspect.html
+py files to reveal slides: https://github.com/apiad/auditorium
+slides in terminal: https://github.com/vinayak-mehta/present
+great-tables: https://posit-dev.github.io/great-tables/articles/intro.html
