@@ -4,13 +4,14 @@ scipy
 pandas (especially if I need geopandas or work with location data frameworks)
 pyarrow
 polars
-matplotlib
+matplotlib / xy (Rust-based)
 jupyter
 statsmodels
 loguru
 ruff
 icecream
 python-dotenv
+uv
 
 # Drop-in replacement for pip
 uv: https://github.com/astral-sh/uv
@@ -65,10 +66,9 @@ sqlframe: https://github.com/eakmanrq/sqlframe
 
 # visualization libraries
 MATPLOTLIB
-dexplot: https://github.com/dexplo/dexplot
-https://github.com/lukelbd/proplot
+ultraplot: https://github.com/Ultraplot/ultraplot
 Edit your MATPLOTLIB chart with a GUI workflow: https://pylustrator.readthedocs.io/en/latest/
-seaborn
+seaborn (last commit was in 2024)
 altair / https://github.com/justinbois/altair-catplot
 plotly express: https://github.com/plotly/plotly_express
 bqplot: https://github.com/bloomberg/bqplot
@@ -171,7 +171,7 @@ ibm_db
 ibm_db_sa
 jinjasql: https://github.com/hashedin/jinjasql
 duckdb: columnar version of sqlite: https://github.com/cwida/duckdb
-harlequin: https://harlequin.sh/
+harlequin (terminal-based SQL editor): https://github.com/tconbeer/harlequin
 snowflake: https://github.com/snowflakedb/snowflake-connector-python
 
 # ETL or data engineering related
@@ -292,6 +292,7 @@ bpython
 bottle: https://bottlepy.org/docs/dev/
 flask: https://github.com/pallets/flask
 fastapi: https://github.com/tiangolo/fastapi
+granian: https://github.com/emmett-framework/granian
 
 # Testing Code / Type Checking
 pytest: https://github.com/pytest-dev/pytest
