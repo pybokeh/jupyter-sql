@@ -88,8 +88,9 @@ https://drawingfromdata.com/pandas/grouping/pandas-groupby-transform-aggregate-f
 
 # pip installing from master branch
 https://pip.pypa.io/en/stable/topics/vcs-support/#url-fragments
-new syntax: pip install 'ibis-framework[duckdb]@git+https://github.com/ibis-project/ibis@master'
-old syntax: pip install git+https://github.com/ibis-project/ibis.git@master
+pip install git+https://github.com/ibis-project/ibis.git@master
+with optional dependencies: pip install 'ibis-framework[duckdb]@git+https://github.com/ibis-project/ibis@master'
+
 
 # PostgreSQL
 https://hakibenita.com/postgresql-unknown-features
