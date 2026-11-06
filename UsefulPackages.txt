@@ -3,7 +3,7 @@ numpy
 scipy
 pandas (especially if I need geopandas or work with location data frameworks)
 pyarrow
-polars
+polars / sqlframe (PySpark)
 matplotlib / xy (Rust-based)
 jupyter
 statsmodels
@@ -322,6 +322,7 @@ For CPU bound: Use multiprocessing
 An easier multiprocessing library?: https://github.com/Slimmer-AI/mpire
 Trio, a better asyncio?:  https://github.com/python-trio/trio
 many_requests: https://github.com/joshlk/many_requests
+pymizu: https://github.com/shikokuchuo/pymizu
 
 # Interesting GitHub repos
 ML: https://github.com/firmai/industry-machine-learning
