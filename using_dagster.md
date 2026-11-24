@@ -62,3 +62,13 @@ class PostgresResource(dg.ConfigurableResource):
         )
 ```
 
+# Creating a new dagster project using CLI
+#### https://dagster.io/docs/guides/build/projects/creating-projects
+
+uvx create-dagster@latest project my-project
+cd my-project
+.venv\Scripts\activate
+
+# Creating workspaces to manage multiple projects
+#### https://dagster.io/docs/guides/build/projects/workspaces/creating-workspaces
+
