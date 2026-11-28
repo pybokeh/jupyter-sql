@@ -29,6 +29,12 @@ git branch -M main
 git push -u origin main
 ```
 
+#### OPTIONAL:
+If you did add .gitignore or license, then do a git pull before git push:
+```bash
+git pull origin main --allow-unrelated-histories
+```
+
 If you authenticate with SSH keys, use the SSH URL instead:
 
 ```bash
