@@ -133,6 +133,9 @@ Need to include the following in your pyproject.toml file:
 requires = ["setuptools >= 61.0"]
 build-backend = "setuptools.build_meta"
 
+# PyTorch
+https://sebastianraschka.com/teaching/pytorch-1h/
+
 # Snowflake
 Tutorials: https://share-docs.clickup.com/37466271/d/h/13qc4z-104/d4346819bd8d510
 Working with JSON: https://medium.com/snowflake/working-with-semi-structured-data-in-snowflake-e74525c5514

@@ -96,6 +96,7 @@ pyecharts: https://github.com/pyecharts/pyecharts (in Chinese)
            English translated version: https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fgithub.com%2Fpyecharts%2Fpyecharts
 hiplot (parallel coordinates plot): https://github.com/facebookresearch/hiplot
 fastplotlib: https://github.com/fastplotlib/fastplotlib
+xy: https://github.com/reflex-dev/xy
 
 # geo visualization libraries (NOTE: For Windows, see geospatial-wheels below)
 folium: https://github.com/python-visualization/folium
@@ -108,6 +109,9 @@ GeoLibre: https://github.com/opengeos/GeoLibre
 
 # Unofficial Python Wheels for Geospatial
 https://github.com/cgohlke/geospatial-wheels/
+
+# Convert documents to markdown
+markitdown: https://github.com/microsoft/markitdown
 
 # Animation related
 celluloid: https://github.com/jwkvam/celluloid
@@ -130,6 +134,7 @@ gradio: https://github.com/gradio-app/gradio
 pynecone: https://github.com/pynecone-io/pynecone
 datapane: https://github.com/datapane/datapane
 solara: https://github.com/widgetti/solara
+nicegui: https://github.com/zauberzeug/nicegui
 
 # Jupyter Notebook Related
 jupysql: https://github.com/ploomber/jupysql
